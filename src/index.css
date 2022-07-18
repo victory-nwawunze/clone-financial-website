@@ -88,3 +88,114 @@ font-family: 'Livvic', sans-serif;
   margin-left: 5%;
   margin-top: 25px;
 }
+.MoneyAfricaWithVideoDescription{
+  background-color: #E3EEE7;
+}
+.VideodescriptionContainer{
+  width: 100%;
+}
+.PaddingTopAndBottom{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.VideoDescriptionText{
+  font-weight: 500;
+  color: #111111;
+  font-size: 50px;
+  font-style: normal;
+}
+.videoDescriptionText{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+}
+.BtnWatchVideoStyle{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 20px;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  background-color: #015351;
+  cursor: pointer;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.BtnWatchVideoNoStyles{
+   padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 20px;
+  color: #111111;
+  border: none;
+  border-radius: 8px;
+  background-color: #E3EEE7;
+  cursor: pointer;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.MoneyAfricaDescriptionWithCards{
+  background-color: #F3F4F5;
+}
+.TextStylesForTextDes{
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+  margin-top: 30px;
+}
+.MoreTextStylesForTextDes{
+  font-size: 18px;
+  font-weight: 400;
+  color: #111111;
+  margin-top: 15px;
+}
+.CardForMoneyAfricaTextDescription{
+  background-color: #fff;
+  padding-right: 50px;
+  margin-top: 30px;
+  border-radius: 2px;
+  width: 120%;
+}
+
+.PremiumText{
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.MoneyCardText{
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  padding-left: 20px;
+  padding-bottom: 50px;
+}
+.paddingRightForImage{
+  position: relative;
+  left: 11.5rem;
+  margin-bottom: 0;
+  bottom: -1.4rem;
+  /* padding-bottom: 30px; */
+}
+.BAPstyle{
+  position: relative;
+  top: -80px;
+  right: -55px;
+  color: #015351;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.PlayBookpaddingRightForImage{
+   position: relative;
+  left: 14rem;
+  margin-bottom: 0;
+  bottom: -1.4rem;
+}
