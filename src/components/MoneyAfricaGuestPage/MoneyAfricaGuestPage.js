@@ -12,6 +12,7 @@ import WhiteArrowRightImage from "../../images/WhiteArrowRight.png";
 import MoneyAfricaVideoDescription from "../../images/MoneyAfricaVideoDescription.png";
 import MoneyAfricaBookImage from "../../images/MoneyAfricaBookImage.png";
 import PlayBook from "../../images/PlayBook.png";
+import WalletImage from "../../images/WalletImage.png";
 const MoneyAfricaGuestPage = () => {
   return (
     <React.Fragment>
@@ -175,6 +176,21 @@ const MoneyAfricaGuestPage = () => {
                 <img src={PlayBook} className="PlayBookpaddingRightForImage" />
                 <p className="BAPstyle">Become a partner</p>
               </div>
+            </div>
+          </div>
+        </div>
+        <div className="ASingleContainerWithGrid padding-1">
+          <div className="df justify-content-centr align-items-centr">
+            <div>
+              <p className="ADAstyles">Automated Digital Advisory</p>
+              <p className="improveText">
+                Improve your financial health and investment strategy by
+                <br />
+                answering a few questions we’ll ask you.
+              </p>
+            </div>
+            <div>
+              <img src={WalletImage} />
             </div>
           </div>
         </div>
