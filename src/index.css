@@ -254,5 +254,17 @@ font-family: 'Livvic', sans-serif;
   border: none;
   color: #fff;
   cursor:pointer;
-;
+}
+.ContactUsText{
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+  font-style: none;
+}
+.ContactUsTextFont{
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: normal;
+  margin-top: 10px;
 }
