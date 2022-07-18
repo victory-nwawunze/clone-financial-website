@@ -213,3 +213,20 @@ font-family: 'Livvic', sans-serif;
   font-size: 18px;
   color: #111111;
 }
+.footerText{
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+  font-style: normal;
+}
+.PaddingForIcon{
+  padding-right: 20px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+.SpaceAllFooterText{
+  padding-top: 30px;
+}
+.font-bolder{
+  font-weight: bolder;
+}
