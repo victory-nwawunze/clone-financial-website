@@ -230,3 +230,29 @@ font-family: 'Livvic', sans-serif;
 .font-bolder{
   font-weight: bolder;
 }
+.FooterText{
+  font-weight: 400;
+  font-size: 16px;
+  color: #7C7C7C;
+}
+.inputWidth{
+  width: 180% !important;
+  border-top: none;
+  outline: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #E3EEE7;
+}
+.SubmitButton{
+  margin-top: 8%;
+  padding-left: 20px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  background-color: #C03E21;
+  border: none;
+  color: #fff;
+  cursor:pointer;
+;
+}
