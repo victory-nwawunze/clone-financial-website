@@ -2,163 +2,68 @@
   margin: 0px;
   padding: 0px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Livvic:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Livvic:wght@300&display=swap');
 
-.font-text{
-  font-family: 'Livvic', sans-serif;
+.text-font{
+font-family: 'Livvic', sans-serif;
 }
 
-/* display flex */
+.padding-1{
+  padding: 3rem;
+}
+.container{
+  width: 90%;
+}
 .df{
   display: flex;
 }
-.row{
-  flex-direction: row;
-}
-.jcfs{
-  justify-content: flex-start;
-}
-.jcfe{
-  justify-content: flex-end;
-}
-.jcsb{
+.justify-content-betw{
   justify-content: space-between;
 }
-.jcsa{
-  justify-content: space-around;
+.StyleText{
+  font-weight: bold;
+  font-size: 64px;
+  color: #111111;
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 20%;
 }
-.jcse{
-  justify-content: space-evenly;
+.styleTextDescription{
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+  color: #111111;
 }
-.aic{
+.btnStyles{
+  padding-top: 10px;
+  padding-bottom: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #015351;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 25px;
+}
+.btnWhiteStyles{
+  padding-top: 10px;
+  padding-bottom: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #fff;
+  color: #015351;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 25px;
+}
+.align-items-centr{
   align-items: center;
-}
-/* Paddings */
-.padding-1{
-  padding: 1rem;
-}
-.padding-2{
-  padding: 2rem;
-}
-.padding-3{
-  padding: 3rem;
-}
-.padding-4{
-  padding: 4rem;
-}
-.padding-5{
-  padding: 5rem;
-}
-/* Padding Left and right */
-.plr-1{
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.plr-2{
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-.plr-3{
-  padding-left: 3rem;
-  padding-right: 3rem;
-}
-.plr-4{
-  padding-left: 4rem;
-  padding-right: 4rem;
-}
-.plr-5{
-  padding-left: 5rem;
-  padding-right: 1rem;
-}
-/* PaddingTopToBottom */
-.ptb-1{
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-.ptb-2{
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-.ptb-3{
-  padding-top: 3rem;
-  padding-bottom: 4rem;
-}
-.ptb-4{
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-}
-.ptb-5{
-  padding-top: 5rem;
-  padding-bottom: 1rem;
-}
-/* Margins */
-.margin-1{
-  margin: 1rem;
-}
-.margin-2{
-  margin: 2rem;
-}
-.margin-3{
-  margin: 3rem;
-}
-.margin-4{
-  margin: 4rem;
-}
-.margin-5{
-  margin: 5rem;
-}
-/* MarginLeftAndRight */
-.mlr-1{
-  margin-left: 1rem;
-  margin-right: 1rem;
-}
-.mlr-2{
-  margin-left: 2rem;
-  margin-right: 2rem;
-}
-.mlr-3{
-  margin-left: 3rem;
-  margin-right: 3rem;
-}
-.mlr-4{
-  margin-left: 4rem;
-  margin-right: 4rem;
-}
-.mlr-5{
-  margin-left: 5rem;
-  margin-right: 5rem;
-}
-/* MarginTopToBottom */
-.mtb-1{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-.mtb-2{
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-.mtb-3{
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-}
-.mtb-4{
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-}
-.mtb-5{
-  margin-top: 5rem;
-  margin-bottom: 5rem;
-}
-
-/* container styles */
-@media screen and (max-width:1400px){
-  .container{
-    margin: 0 auto;
-    max-width: 48rem;
-    width: 90%;
-  }
-  .container-fluid{
-    margin: 0 auto;
-    width: 100%;
-  }
 }
