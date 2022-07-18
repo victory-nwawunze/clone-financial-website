@@ -4,6 +4,10 @@ import React from "react";
 import ArrowDown from "../../images/Arrow.png";
 import ArrowRightImage from "../../images/ArrowRightImage.png";
 import BannerImageForGuest from "../../images/BannerImageForGuest.png";
+import BBCImage from "../../images/BBCimage.png";
+import TechPointImage from "../../images/TechPointImage.png";
+import CNNImage from "../../images/CNNImage.png";
+import LinkedInImage from "../../images/LinkedInImage.png";
 const MoneyAfricaGuestPage = () => {
   return (
     <React.Fragment>
@@ -42,6 +46,24 @@ const MoneyAfricaGuestPage = () => {
             <div>
               <img src={BannerImageForGuest} />
             </div>
+          </div>
+        </div>
+      </div>
+      <div className="featuresSection padding-1 text-center">
+        <hr className="LinesStyle" />
+        <p className="FeatureTextStyles">As featured on</p>
+        <div className="df justify-content-centr">
+          <div className="SpaceAllImages">
+            <img src={BBCImage} />
+          </div>
+          <div className="SpaceAllImages">
+            <img src={TechPointImage} />
+          </div>
+          <div className="SpaceAllImages">
+            <img src={CNNImage} />
+          </div>
+          <div className="SpaceAllImages">
+            <img src={LinkedInImage} />
           </div>
         </div>
       </div>

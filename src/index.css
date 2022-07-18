@@ -67,3 +67,24 @@ font-family: 'Livvic', sans-serif;
 .align-items-centr{
   align-items: center;
 }
+.text-center{
+  text-align: center;
+}
+.justify-content-centr{
+  justify-content: center;
+}
+.LinesStyle{
+  border: 1px solid #B3AFAF;
+}
+.FeatureTextStyles{
+  padding-top: 40px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+  font-style: normal;
+}
+.SpaceAllImages{
+  margin-right: 10%;
+  margin-left: 5%;
+  margin-top: 25px;
+}
