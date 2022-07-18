@@ -1,9 +1,11 @@
 /** @format */
 
+import Navbar from "./components/Navbar/Navbar";
+
 function App() {
   return (
     <div>
-      <h1>Heelo</h1>
+      <Navbar />
     </div>
   );
 }
