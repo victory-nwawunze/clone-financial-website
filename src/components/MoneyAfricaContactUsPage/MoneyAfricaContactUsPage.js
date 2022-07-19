@@ -3,6 +3,8 @@
 import React from "react";
 import SmallUserIcon from "../../images/SmallUserIcon.png";
 import EmailIcon from "../../images/EmailIcon.png";
+import ChevDownIconImage from "../../images/ChevDownIconImage.png";
+import QuestionMarkIcon from "../../images/QuestionMarkIcon.png";
 const MoneyAfricaContactUsPage = () => {
   return (
     <React.Fragment>
@@ -28,6 +30,19 @@ const MoneyAfricaContactUsPage = () => {
         <div>
           <input type="text" className="InputTextForContactForm" />
         </div>
+        <p className="EmailStyles">What do you need help with?</p>
+        <div className="df justify-content-betw">
+          <div>
+            <img src={QuestionMarkIcon} />
+          </div>
+          <div>
+            <img src={ChevDownIconImage} />
+          </div>
+        </div>
+        <input type="text" className="FAQStyles" />
+        <p className="EmailStyles">Your message</p>
+        <input type="text" className="MessageStyles" />
+        <button className="SendMessageButtonStyle">Send message</button>
       </div>
     </React.Fragment>
   );
