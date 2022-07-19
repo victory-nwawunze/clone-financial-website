@@ -270,7 +270,7 @@ font-family: 'Livvic', sans-serif;
 }
 .MoneyAfricaContactUsForm{
   margin: 0 auto;
-  width: 30%;
+  width: 40%;
   border: 1px solid #E3EEE7;
   border-radius: 4px;
 }
@@ -283,7 +283,10 @@ font-family: 'Livvic', sans-serif;
   border-right: none;
 }
 .paddingForContactFormCard{
-  padding: 40px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 .YourNameStyles{
   color: #E3EEE7;
@@ -300,4 +303,34 @@ font-family: 'Livvic', sans-serif;
   font-style: normal;
   padding-bottom: 10px;
   padding-top: 30px;
+}
+.FAQStyles{
+  width: 100%;
+  border-top: none;
+  outline: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #E3EEE7;
+}
+.MessageStyles{
+    width: 100%;
+  border-top: none;
+  outline: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #E3EEE7;
+  padding-top: 20%;
+}
+.SendMessageButtonStyle{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #015351;
+  color: #fff;
+  border: none;
+  margin-top: 40px;
+  border-radius: 8px;
+  margin-left: 75%;
+  cursor: pointer;
 }
