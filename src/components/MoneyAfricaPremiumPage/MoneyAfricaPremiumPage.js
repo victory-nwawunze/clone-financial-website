@@ -24,81 +24,157 @@ const MoneyAfricaPremiumPage = () => {
               <br /> your money
             </p>
           </div>
-          <div className="CardBorderOne">
-            <div className="df">
-              <div>
-                <p className="stylePremiumText">Platinum Plan</p>
+          <div>
+            <div className="CardBorderOne">
+              <div className="df">
+                <div>
+                  <p className="stylePremiumText">Platinum Plan</p>
+                </div>
+                <div>
+                  <p className="StyleTextForMonthly">Monthly</p>
+                </div>
+                <div>
+                  <p className="StyleTextForToggleButton">
+                    <label class="switch">
+                      <input type="checkbox" />
+                      <span class="slider round"></span>
+                    </label>
+                  </p>
+                </div>
+                <div>
+                  <p className="StyleYearlyText">Yearly</p>
+                </div>
               </div>
-              <div>
-                <p className="StyleTextForMonthly">Monthly</p>
+              <p className="StyleAmountText">
+                ₦250,000<span className="PerYearStyles">/per year</span>
+              </p>
+              <hr className="StyleCardLines" />
+              <div className="df">
+                <div className="PaddingRightMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">Lasts an entire year</p>
+                </div>
               </div>
-              <div>
-                <p className="StyleTextForToggleButton">
-                  <label class="switch">
-                    <input type="checkbox" />
-                    <span class="slider round"></span>
-                  </label>
-                </p>
+              <div className="df">
+                <div className="PaddingRightMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">Curated personalized investments</p>
+                </div>
               </div>
-              <div>
-                <p className="StyleYearlyText">Yearly</p>
+              <div className="df">
+                <div className="PaddingRightTopMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">
+                    Detailed emails every 2 weeks on the
+                    <br /> key changes in the market.
+                  </p>
+                </div>
               </div>
-            </div>
-            <p className="StyleAmountText">
-              ₦250,000<span className="PerYearStyles">/per year</span>
-            </p>
-            <hr className="StyleCardLines" />
-            <div className="df">
-              <div className="PaddingRightMarkIcon">
-                <img src={MarkIcon} />
+              <div className="df">
+                <div className="PaddingRightTopMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">
+                    Session every 3 months with
+                    <br /> finance expert
+                  </p>
+                </div>
               </div>
-              <div>
-                <p className="CardText">Lasts an entire year</p>
+              <div className="df">
+                <div className="PaddingRightTopMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">
+                    Covers global stock and other
+                    <br /> international investments extensively.
+                  </p>
+                </div>
               </div>
-            </div>
-            <div className="df">
-              <div className="PaddingRightMarkIcon">
-                <img src={MarkIcon} />
-              </div>
-              <div>
-                <p className="CardText">Curated personalized investments</p>
-              </div>
-            </div>
-            <div className="df">
-              <div className="PaddingRightTopMarkIcon">
-                <img src={MarkIcon} />
-              </div>
-              <div>
-                <p className="CardText">
-                  Detailed emails every 2 weeks on the
-                  <br /> key changes in the market.
-                </p>
-              </div>
-            </div>
-            <div className="df">
-              <div className="PaddingRightTopMarkIcon">
-                <img src={MarkIcon} />
-              </div>
-              <div>
-                <p className="CardText">
-                  Session every 3 months with
-                  <br /> finance expert
-                </p>
-              </div>
-            </div>
-            <div className="df">
-              <div className="PaddingRightTopMarkIcon">
-                <img src={MarkIcon} />
-              </div>
-              <div>
-                <p className="CardText">
-                  Covers global stock and other
-                  <br /> international investments extensively.
-                </p>
-              </div>
+              <input type="button" className="SubBtn" value="Subscribe" />
             </div>
           </div>
-          <div>3</div>
+          <div>
+            <div className="CardBorderOne">
+              <div className="df">
+                <div>
+                  <p className="stylePremiumText">Platinum Plan</p>
+                </div>
+                <div>
+                  <p className="StyleTextForMonthly">Monthly</p>
+                </div>
+                <div>
+                  <p className="StyleTextForToggleButton">
+                    <label class="switch">
+                      <input type="checkbox" />
+                      <span class="slider round"></span>
+                    </label>
+                  </p>
+                </div>
+                <div>
+                  <p className="StyleYearlyText">Yearly</p>
+                </div>
+              </div>
+              <p className="StyleAmountText">
+                ₦100,000<span className="PerYearStyles">/per year</span>
+              </p>
+              <hr className="StyleCardLines" />
+              <div className="df">
+                <div className="PaddingRightMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">Email support with finance expert</p>
+                </div>
+              </div>
+              <div className="df">
+                <div className="PaddingRightMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">Curated personalized investments</p>
+                </div>
+              </div>
+              <div className="df">
+                <div className="PaddingRightTopMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">
+                    Detailed emails every 2 weeks on the
+                    <br /> key changes in the market.
+                  </p>
+                </div>
+              </div>
+              <div className="df">
+                <div className="PaddingRightTopMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardText">
+                    Covers global stock and other
+                    <br /> international investments extensively.
+                  </p>
+                </div>
+              </div>
+              <div className="df">
+                <div className="PaddingRightTopMarkIcon">
+                  <img src={MarkIcon} />
+                </div>
+                <div>
+                  <p className="CardTextForLst">Lasts an entire year</p>
+                </div>
+              </div>
+              <input type="button" className="SubBtn" value="Subscribe" />
+            </div>
+          </div>
         </div>
       </div>
     </React.Fragment>

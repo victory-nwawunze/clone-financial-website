@@ -353,7 +353,7 @@ font-family: 'Livvic', sans-serif;
 }
 
 .padding-5{
-  padding: 5rem;
+  padding: 3%;
 }
 .GrowFinancialTextStyle{
   font-size: 36px;
@@ -372,6 +372,7 @@ font-family: 'Livvic', sans-serif;
     padding-bottom: 10px;
     padding-top: 10px;
     border-radius: 10px;
+    margin-right: -5px;
 
 }
 .stylePremiumText{
@@ -385,7 +386,7 @@ font-family: 'Livvic', sans-serif;
 padding-top: 10px;
     padding-bottom: 10px;
     padding-right: -2px;
-    padding-left: 76px;
+    padding-left: 29px;
     color: #7C7C7C;
 }
 .switch {
@@ -408,7 +409,7 @@ padding-top: 10px;
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ccc;
+  background-color: #2196F3;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -426,7 +427,7 @@ padding-top: 10px;
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #30656F;
 }
 
 input:focus + .slider {
@@ -494,4 +495,22 @@ input:checked + .slider:before {
 .PaddingRightTopMarkIcon{
   padding-left: 20px;
   padding-top: 30px;
+}
+.SubBtn{
+  margin-left: 12%;
+  margin-top: 50px;
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  background-color: #015351;
+  margin-bottom: 20px;
+}
+.CardTextForLst{
+  padding-top: 30px;
+  padding-left: 20px;
 }
