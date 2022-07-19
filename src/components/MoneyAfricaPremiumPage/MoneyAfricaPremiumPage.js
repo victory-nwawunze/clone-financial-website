@@ -3,6 +3,8 @@
 import React from "react";
 import MarkIcon from "../../images/MarkIcon.png";
 import AccordionPlusImage from "../../images/AccordionPlusImage.png";
+import RightArrowFill from "../../images/Eva_Arrow-Back-Fill.png";
+import EvaArrowLeftIcon from "../../images/EvaArrowLeftIcon.png";
 const MoneyAfricaPremiumPage = () => {
   return (
     <React.Fragment>
@@ -254,6 +256,28 @@ const MoneyAfricaPremiumPage = () => {
                   valuable lesson that saw one investment
                   <br /> recover to +33% after a long dip of -19%.”
                 </p>
+              </div>
+            </div>
+          </div>
+          <div className="MoneyAfricaArrows">
+            <div className="df justify-content-betw">
+              <div>
+                <div className="df">
+                  <div className="RoundedCircle">1</div>
+                  <div>
+                    <div className="SmallRoundedCircle">2</div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div className="df">
+                  <div className="RightArrowStyles">
+                    <img src={RightArrowFill} />
+                  </div>
+                  <div className="LeftArrowStyles">
+                    <img src={EvaArrowLeftIcon} />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
