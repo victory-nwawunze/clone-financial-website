@@ -669,3 +669,30 @@ input:checked + .slider:before {
   border-radius: 8px;
   cursor: pointer;
 }
+.MoneyAfricaCommunityMembers{
+  padding-top: 20px;
+}
+.ImageSizing{
+  /* width: 100%; */
+}
+.MarginToWidth{
+  margin-left: 5%;
+}
+.MarginToCommunityText{
+  margin-right: 20%;
+  margin-top: 10%;
+}
+.TextStylesForCommunity{
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+  font-style: normal;
+}
+.MoneyAfricaTextWithMarkIcon{
+  margin-top: 30px;
+}
+.SpaceAllCommunityText{
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 10%;
+}
