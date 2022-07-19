@@ -560,3 +560,51 @@ input:checked + .slider:before {
   border-bottom: 1px solid #C03E21;
   cursor: pointer;
 }
+.TATStyles{
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+  margin-top: 7%;
+}
+.MoreTATTextStyles{
+  font-weight: 400;
+  font-size: 18;
+  color: #111111;
+  margin-top: 10px;
+}
+.MoneyAfricaTestimonialCards{
+ margin: 30px;
+}
+.CardOne{
+  border: 1px solid #015351;
+  padding: 10px;
+  border-radius: 10px;
+}
+.CardTwo{
+   border: 1px solid #E5E5E5;
+  padding: 10px;
+  border-radius: 10px;
+}
+.TestimonialNameStyles{
+  padding-top: 40px;
+  padding-bottom: 10px;
+  padding-left: 18px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+}
+.TestimonialDescriptionStyles{
+  padding-left: 18px;
+  padding-right: 10px;
+  padding-bottom: 15%;
+}
+.TestimonialDescriptionStylesTwo{
+  padding-left: 18px;
+  padding-right: 30px;
+  padding-bottom: 39%;
+}
+.TestimonialDescriptionStylesOne{
+  padding-left: 18px;
+  padding-right: 30px;
+  padding-bottom: 27%;
+}
