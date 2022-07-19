@@ -6,6 +6,7 @@ import MoneyAfricaGuestPage from "./components/MoneyAfricaGuestPage/MoneyAfricaG
 import Navbar from "./components/Navbar/Navbar";
 import { Route, Routes, Navigate } from "react-router-dom";
 import MoneyAfricaPremiumPage from "./components/MoneyAfricaPremiumPage/MoneyAfricaPremiumPage";
+import MoneyAfricaCommunityPage from "./components/MoneyAfricaCommunityPage/MoneyAfricaCommunityPage";
 
 function App() {
   return (
@@ -21,6 +22,10 @@ function App() {
         <Route
           path={"/moneyAfrica/MoneyAfricaPremiumPage"}
           element={<MoneyAfricaPremiumPage />}
+        />
+        <Route
+          path={"/moneyAfrica/MoneyAfricaCommunityPage"}
+          element={<MoneyAfricaCommunityPage />}
         />
       </Routes>
 
