@@ -514,3 +514,49 @@ input:checked + .slider:before {
   padding-top: 30px;
   padding-left: 20px;
 }
+.FAQStylesText{
+  font-weight: 500;
+  font-size: 36px;
+  font-style: none;
+  color: #111111;
+}
+.FAQtextStyles{
+     padding-top: 5%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #111111;
+    padding-bottom: 40px;
+}
+.MoneyAfricaAAccordion{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.PositionAccordionStylesWithLines{
+  position: relative;
+}
+.PositionPlusImage{
+  position: absolute;
+  left: 66rem;
+  top: -5rem;
+  cursor: pointer;
+}
+.styleAccordionLine{
+  border: 1px solid #E3EEE7;
+}
+.SpacingForAccordionLink{
+  margin-top: 5%;
+  font-weight: 400;
+  font-size: 18px;
+  color: #7C7C7C;
+  font-style: normal;
+}
+.SendUsAMessageTextStyles{
+   font-size: 18px;
+  color: #C03E21;
+  font-style: normal;
+  border-bottom: 1px solid #C03E21;
+  cursor: pointer;
+}
