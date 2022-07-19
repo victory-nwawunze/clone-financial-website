@@ -1,7 +1,8 @@
 /** @format */
 
 import React from "react";
-
+import SmallUserIcon from "../../images/SmallUserIcon.png";
+import EmailIcon from "../../images/EmailIcon.png";
 const MoneyAfricaContactUsPage = () => {
   return (
     <React.Fragment>
@@ -15,6 +16,18 @@ const MoneyAfricaContactUsPage = () => {
           information
           <br /> about our services?. Please kindly drop us a message.
         </p>
+      </div>
+      <div className="MoneyAfricaContactUsForm paddingForContactFormCard">
+        <p className="YourNameStyles">Your name</p>
+        <img src={SmallUserIcon} />
+        <div>
+          <input type="text" className="InputTextForContactForm" />
+        </div>
+        <p className="EmailStyles">Email Address</p>
+        <img src={EmailIcon} />
+        <div>
+          <input type="text" className="InputTextForContactForm" />
+        </div>
       </div>
     </React.Fragment>
   );

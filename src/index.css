@@ -268,3 +268,36 @@ font-family: 'Livvic', sans-serif;
   font-style: normal;
   margin-top: 10px;
 }
+.MoneyAfricaContactUsForm{
+  margin: 0 auto;
+  width: 30%;
+  border: 1px solid #E3EEE7;
+  border-radius: 4px;
+}
+.InputTextForContactForm{
+  width: 100%;
+  outline: none;
+  border-bottom: 1px solid #E3EEE7;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.paddingForContactFormCard{
+  padding: 40px;
+}
+.YourNameStyles{
+  color: #E3EEE7;
+  font-weight: 400;
+  font-size: 14px;
+  font-style: normal;
+  padding-bottom: 10px;
+  /* padding-top: 10px; */
+}
+.EmailStyles{
+    color: #E3EEE7;
+  font-weight: 400;
+  font-size: 14px;
+  font-style: normal;
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
