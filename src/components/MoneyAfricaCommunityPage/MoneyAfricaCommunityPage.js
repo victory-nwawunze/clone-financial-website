@@ -4,6 +4,7 @@ import React from "react";
 import MoneyAfricaCommunityImage from "../../images/MoneyAfricaCommunityImage.png";
 import MoneyAfricaCommunityMarkedIcon from "../../images/CommunityMarkedIcon.png";
 import MoneyAfricaAccordion from "../MoneyAfricaAccordion/MoneyAfricaAccordion";
+import MoneyAfricaTestimonialPage from "../MoneyAfricaTestimonialPage/MoneyAfricaTestimonialPage";
 const MoneyAfricaCommunityPage = () => {
   return (
     <React.Fragment>
@@ -103,6 +104,7 @@ const MoneyAfricaCommunityPage = () => {
         </div>
       </div>
       <MoneyAfricaAccordion />
+      <MoneyAfricaTestimonialPage />
     </React.Fragment>
   );
 };
