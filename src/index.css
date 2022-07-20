@@ -571,6 +571,7 @@ input:checked + .slider:before {
   font-size: 18;
   color: #111111;
   margin-top: 10px;
+  margin-bottom: 5%;
 }
 .MoneyAfricaTestimonialCards{
  margin: 30px;
@@ -673,9 +674,8 @@ input:checked + .slider:before {
   padding-top: 20px;
   margin-bottom: 10%;
 }
-.ImageSizing{
-  /* width: 100%; */
-}
+
+
 .MarginToWidth{
   margin-left: 5%;
 }
@@ -696,4 +696,23 @@ input:checked + .slider:before {
   padding-left: 20px;
   padding-top: 5px;
   padding-bottom: 10%;
+}
+.MoneyAfricaBannerText{
+  margin-top: 20px;
+  padding: 5rem;
+  background-color: #fff;
+}
+.AbtUsBannerTextStyle{
+  width: 500;
+  font-size: 50px;
+  color: #111111;
+  font-style: normal;
+  padding-bottom: 5px;
+}
+.MoreAbtTextStyles{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  padding-top: 10px;
 }
