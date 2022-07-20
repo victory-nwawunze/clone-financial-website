@@ -390,10 +390,10 @@ padding-top: 10px;
     color: #7C7C7C;
 }
 .switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
+      position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 27px;
 }
 
 .switch input { 
@@ -415,15 +415,14 @@ padding-top: 10px;
 }
 
 .slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+    position: absolute;
+    content: "";
+    height: 19px;
+    width: 28px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
 }
 
 input:checked + .slider {
@@ -449,9 +448,10 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 .StyleTextForToggleButton{
-    padding-bottom: 10px;
-    padding-right: -2px;
-    padding-left: 32px;
+        padding-bottom: 11px;
+    /* padding-right: -2px; */
+    padding-left: 41px;
+    padding-top: 5px;
 }
 .StyleYearlyText{
  padding-top: 10px;
@@ -671,6 +671,7 @@ input:checked + .slider:before {
 }
 .MoneyAfricaCommunityMembers{
   padding-top: 20px;
+  margin-bottom: 10%;
 }
 .ImageSizing{
   /* width: 100%; */
