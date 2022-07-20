@@ -739,3 +739,36 @@ input:checked + .slider:before {
   border-radius: 50%;
   cursor: pointer;
 }
+.MoneyAfricaAboutUsDescriptionStyles{
+  margin-top: 5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15%;
+  padding-left: 10%;
+}
+.SimplifyingTextStyles{
+  font-weight: 500;
+  color: #111111;
+  font-style: normal;
+  font-size: 36px;
+}
+.MoneyAfricaAbtDesTextOne{
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: normal;
+}
+.MoneyAfricaAbtDesTextTwo{
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: normal;
+  margin-top: 40px;
+}
+.MoneyAfricaAbtDesTextThree{
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: normal;
+  margin-top: 40px;
+}
