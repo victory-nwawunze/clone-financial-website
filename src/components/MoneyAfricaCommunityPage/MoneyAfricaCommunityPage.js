@@ -3,6 +3,7 @@
 import React from "react";
 import MoneyAfricaCommunityImage from "../../images/MoneyAfricaCommunityImage.png";
 import MoneyAfricaCommunityMarkedIcon from "../../images/CommunityMarkedIcon.png";
+import MoneyAfricaAccordion from "../MoneyAfricaAccordion/MoneyAfricaAccordion";
 const MoneyAfricaCommunityPage = () => {
   return (
     <React.Fragment>
@@ -17,7 +18,7 @@ const MoneyAfricaCommunityPage = () => {
           className="JoinCommuntity"
         />
       </div>
-      <div className="MoneyAfricaCommunityMembers">
+      <div className="MoneyAfricaCommunityMembers ">
         <div className="df justify-content-betw">
           <div className="MarginToWidth">
             <img src={MoneyAfricaCommunityImage} className="ImageSizing" />
@@ -101,6 +102,7 @@ const MoneyAfricaCommunityPage = () => {
           </div>
         </div>
       </div>
+      <MoneyAfricaAccordion />
     </React.Fragment>
   );
 };
