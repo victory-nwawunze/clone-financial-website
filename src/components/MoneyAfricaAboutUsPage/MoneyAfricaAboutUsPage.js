@@ -10,6 +10,9 @@ import AboutUsCardImageFive from "../../images/CardProfileImageFive.png";
 import AboutUsCardImageSix from "../../images/Group 18197.png";
 import AbtPlusIcon from "../../images/AbtPlusIcon.png";
 import MoneyAfricaChiefExecutiveImage from "../../images/MoneyAfricaChieftExecutiveImage.png";
+import GoToWebArrow from "../../images/GoToWebArrow.png";
+import AppsStoreIcon from "../../images/AppsStoreIcon.png";
+import MobileImage from "../../images/MobileImage.png";
 const MoneyAfricaAboutUsPage = () => {
   return (
     <React.Fragment>
@@ -178,6 +181,45 @@ const MoneyAfricaAboutUsPage = () => {
             <p className="ChiefExecutiveName">Oluwatosin, Founder & CEO</p>
           </div>
         </div>
+      </div>
+      <div className="MoneyAfricaMobileTextWithImage">
+        <div className="df justify-content-betw">
+          <div>
+            <p className="LaddaTextStyle">Ladda.ng</p>
+            <p className="PlatFormTextStyles">
+              Our One stop Investment
+              <br /> Platform
+            </p>
+            <p className="InvestmentTextStyles">
+              You can now invest in savings, mutual fund and stocks <br />
+              all on one platform. Mplace of the modern computer.
+            </p>
+            <img src={AppsStoreIcon} className="AppsStoreIconStyles" />
+            <br />
+            <button className="GTWStyles">
+              Go to website{" "}
+              <span>
+                <img src={GoToWebArrow} className="GTWStylesArrow" />
+              </span>
+            </button>
+          </div>
+          <div>
+            <div className="MobileStylesImage">
+              <img src={MobileImage} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="MoneyAfricaIntrestedTextAndStyles">
+        <p className="TalentedStyleText">
+          Interested in joining our
+          <br /> talented team?
+        </p>
+        <input
+          type="button"
+          value="Careers at MoneyAfrica"
+          className="CareerBTNtextStyles"
+        />
       </div>
     </React.Fragment>
   );
