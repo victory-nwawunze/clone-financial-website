@@ -1070,3 +1070,89 @@ padding-top: 30px;
   background-color: #015351;
   border-radius: 8px;
 }
+.MoneyAfricaSubscriptionForKidsBanner{
+  text-align: center;
+  background-color: #E3EEE7;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.MoneyAfricaSubscriptionForKidsBannerTextStyles{
+  color: #111111;
+  font-weight: 500;
+  font-size: 50px;
+  font-style: normal;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.BootcampTextStyles{
+  text-align: center;
+  margin-top: 40px;
+}
+.HeadingBootcampTextStyles{
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+}
+.MoreHeadingBootcampTextStyles{
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 10px;
+  font-style: normal;
+}
+.MoneyAfricaForKidsCard{
+     margin-top: 20px;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+.MoneyAfricaForKidsCardOne{
+     background-color: #F3F4F5;
+    border-radius: 8px;
+    padding-right: 56px;
+   
+}
+.SummerBootcampTextStyles{
+    font-size: 24px;
+    font-weight: 500;
+    color: #111111;
+    padding-top: 23px;
+    padding-left: 30px;
+    padding-right: 76px;
+}
+.SummerBootcampDateStyles{
+      font-size: 16px;
+    font-weight: 700;
+    color: #111111;
+    padding-top: 12px;
+    padding-left: 30px;
+    padding-right: 76px;
+  
+}
+.SummerBootcampDiscountTextStyles{
+   font-size: 12px;
+    font-weight: 400;
+    color: #111111;
+    font-style: italic;
+    padding-top: 22px;
+    padding-left: 30px;
+    padding-right: 76px;
+}
+.BTNSummerBootCampButtonStyles{
+  background-color: #F3F4F5;
+    margin-left: 30px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 27px;
+    border: none;
+    margin-bottom: 31px;
+    padding-top: 8px;
+    padding-bottom: 11px;
+    color: #015351;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.MoneyAfricaForKidsCardTwo{
+      background-color: #F3F4F5;
+    border-radius: 8px;
+    padding-right: 56px;
+    margin-left: 20px;
+}
