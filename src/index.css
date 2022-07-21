@@ -415,13 +415,14 @@ padding-top: 10px;
 }
 
 .slider:before {
-    position: absolute;
+       position: absolute;
     content: "";
-    height: 19px;
-    width: 28px;
-    left: 4px;
-    bottom: 4px;
+    height: 32px;
+    width: 37px;
+    left: -1px;
+    bottom: -2px;
     background-color: white;
+    border: 1px solid black;
     transition: .4s;
 }
 
@@ -771,4 +772,48 @@ input:checked + .slider:before {
   color: #111111;
   font-style: normal;
   margin-top: 40px;
+}
+.ABTtext{
+  text-align: center;
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+  font-style: normal;
+  margin-top: 40px;
+}
+.MoneyAfricaAbtCardsStyles{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10%;
+  padding-left: 10%;
+  margin-top: 30px;
+}
+.PositionCardImageWithPlusIcon{
+  position: relative;
+}
+.PositionAbtPlusIcon{
+  position: absolute;
+  left: 19rem;
+  top: 5%;
+  cursor: pointer;
+}
+.CardNameStyle{
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #111111;
+}
+.CardEmployeePosition{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #111111;
+  padding-top: 10px;
+}
+.StyleCardImage{
+  background-color: #1DAD96;
+  border-radius: 8px;
+    width: 100%;
+    height: 353px;
 }

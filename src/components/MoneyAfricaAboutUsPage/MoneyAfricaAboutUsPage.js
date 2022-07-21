@@ -2,6 +2,13 @@
 
 import React from "react";
 import PlayIcon from "../../images/PlayIcon.png";
+import AboutUsCardImageOne from "../../images/AboutUsCardImageOne.png";
+import AboutUsCardImageTwo from "../../images/AboutUsCardImageTwo.png";
+import AboutUsCardImageThree from "../../images/AboutUsCardImageThree.png";
+import AboutUsCardImageFour from "../../images/AboutUsCardImageFour.png";
+import AboutUsCardImageFive from "../../images/AboutUsCardImageFive.png";
+import AboutUsCardImageSix from "../../images/Group 18197.png";
+import AbtPlusIcon from "../../images/AbtPlusIcon.png";
 const MoneyAfricaAboutUsPage = () => {
   return (
     <React.Fragment>
@@ -48,6 +55,90 @@ const MoneyAfricaAboutUsPage = () => {
               <br /> on science and industry and the birthplace of the modern
               computer.
             </p>
+          </div>
+        </div>
+      </div>
+      <div className="MoneyAfricaAboutUsCard">
+        <p className="ABTtext">Who we are</p>
+        <div className="MoneyAfricaAbtCardsStyles">
+          <div className="df justify-content-betw">
+            <div>
+              <div className="PositionCardImageWithPlusIcon">
+                <img src={AboutUsCardImageOne} />
+                <div className="PositionAbtPlusIcon">
+                  <img src={AbtPlusIcon} />
+                </div>
+              </div>
+              <p className="CardNameStyle">Joy Ogoke Williams</p>
+              <p className="CardEmployeePosition">
+                Senior Management Accountant
+              </p>
+            </div>
+            <div>
+              <div className="PositionCardImageWithPlusIcon">
+                <img src={AboutUsCardImageTwo} />
+                <div className="PositionAbtPlusIcon">
+                  <img src={AbtPlusIcon} />
+                </div>
+              </div>
+              <p className="CardNameStyle">Adeshola Barth </p>
+              <p className="CardEmployeePosition">
+                Business Performance Manager
+              </p>
+            </div>
+            <div>
+              <div className="PositionCardImageWithPlusIcon">
+                <img src={AboutUsCardImageThree} />
+                <div className="PositionAbtPlusIcon">
+                  <img src={AbtPlusIcon} />
+                </div>
+              </div>
+              <p className="CardNameStyle">Chika Okoro </p>
+              <p className="CardEmployeePosition">People specialist</p>
+            </div>
+          </div>
+        </div>
+        <div className="MoneyAfricaAbtCardsStyles">
+          <div className="df justify-content-betw">
+            <div>
+              <div className="PositionCardImageWithPlusIcon">
+                <img src={AboutUsCardImageFour} />
+                <div className="PositionAbtPlusIcon">
+                  <img src={AbtPlusIcon} />
+                </div>
+              </div>
+              <p className="CardNameStyle">Busola Adebisi</p>
+              <p className="CardEmployeePosition">
+                Business Performance Manager
+              </p>
+            </div>
+            <div>
+              <div className="PositionCardImageWithPlusIcon">
+                <img src={AboutUsCardImageFive} />
+                <div className="PositionAbtPlusIcon">
+                  <img src={AbtPlusIcon} />
+                </div>
+              </div>
+              <p className="CardNameStyle">Andrew Bassey</p>
+              <p className="CardEmployeePosition">Software Engineering Lead</p>
+            </div>
+            <div>
+              <div className="PositionCardImageWithPlusIcon">
+                <div className="StyleCardImage">
+                  <img
+                    src={AboutUsCardImageSix}
+                    className="PaddingForAboutUsCardImage"
+                  />
+                </div>
+                <div className="PositionAbtPlusIcon">
+                  <img src={AbtPlusIcon} />
+                </div>
+              </div>
+              <p className="CardNameStyle">Busola Adebisi</p>
+              <p className="CardEmployeePosition">
+                Business Performance Manager
+              </p>
+            </div>
           </div>
         </div>
       </div>
