@@ -210,6 +210,17 @@ const MoneyAfricaAboutUsPage = () => {
           </div>
         </div>
       </div>
+      <div className="MoneyAfricaIntrestedTextAndStyles">
+        <p className="TalentedStyleText">
+          Interested in joining our
+          <br /> talented team?
+        </p>
+        <input
+          type="button"
+          value="Careers at MoneyAfrica"
+          className="CareerBTNtextStyles"
+        />
+      </div>
     </React.Fragment>
   );
 };
