@@ -8,6 +8,7 @@ import { Route, Routes, Navigate } from "react-router-dom";
 import MoneyAfricaPremiumPage from "./components/MoneyAfricaPremiumPage/MoneyAfricaPremiumPage";
 import MoneyAfricaCommunityPage from "./components/MoneyAfricaCommunityPage/MoneyAfricaCommunityPage";
 import MoneyAfricaAboutUsPage from "./components/MoneyAfricaAboutUsPage/MoneyAfricaAboutUsPage";
+import MoneyAfricaSubscriptionForKids from "./components/MoneyAfricaSubscriptionForKids/MoneyAfricaSubscriptionForKids";
 
 function App() {
   return (
@@ -31,6 +32,10 @@ function App() {
         <Route
           path={"/moneyAfrica/MoneyAfricaAboutUsPage"}
           element={<MoneyAfricaAboutUsPage />}
+        />
+        <Route
+          path={"/moneyAfrica/MoneyAfricaSubscriptionForKids"}
+          element={<MoneyAfricaSubscriptionForKids />}
         />
       </Routes>
 

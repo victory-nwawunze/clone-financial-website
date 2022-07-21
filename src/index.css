@@ -1070,3 +1070,32 @@ padding-top: 30px;
   background-color: #015351;
   border-radius: 8px;
 }
+.MoneyAfricaSubscriptionForKidsBanner{
+  text-align: center;
+  background-color: #E3EEE7;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.MoneyAfricaSubscriptionForKidsBannerTextStyles{
+  color: #111111;
+  font-weight: 500;
+  font-size: 50px;
+  font-style: normal;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.BootcampTextStyles{
+  text-align: center;
+  margin-top: 40px;
+}
+.HeadingBootcampTextStyles{
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+}
+.MoreHeadingBootcampTextStyles{
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 10px;
+  font-style: normal;
+}
