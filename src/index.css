@@ -993,3 +993,53 @@ padding-top: 30px;
   font-style: normal;
   padding-top: 35px;
 }
+.MoneyAfricaMobileTextWithImage{
+      margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.LaddaTextStyle{
+  font-size: 18px;
+  color: #015351;
+  font-weight: 400;
+  padding-bottom: 15px;
+}
+.PlatFormTextStyles{
+  color: #111111;
+  font-weight: 700;
+  font-size: 35px;
+  font-style: normal;
+  padding-bottom: 15px;
+}
+.InvestmentTextStyles{
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: normal;
+  padding-bottom: 15px;
+}
+.AppsStoreIconStyles{
+  cursor: pointer;
+  padding-bottom: 15px;
+}
+.GTWStyles{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #fff;
+  color: #015351;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+}
+.MobileStylesImage{
+  background-color: #F5C3C8;
+    padding-right: 36px;
+    padding-top: 82px;
+    padding-bottom: 10px;
+    padding-left: 81px;
+    width: 368px;
+    height: 340px;
+}
