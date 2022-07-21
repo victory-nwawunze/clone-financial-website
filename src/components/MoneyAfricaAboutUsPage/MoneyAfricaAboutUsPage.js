@@ -2,11 +2,11 @@
 
 import React from "react";
 import PlayIcon from "../../images/PlayIcon.png";
-import AboutUsCardImageOne from "../../images/AboutUsCardImageOne.png";
-import AboutUsCardImageTwo from "../../images/AboutUsCardImageTwo.png";
-import AboutUsCardImageThree from "../../images/AboutUsCardImageThree.png";
-import AboutUsCardImageFour from "../../images/AboutUsCardImageFour.png";
-import AboutUsCardImageFive from "../../images/AboutUsCardImageFive.png";
+import AboutUsCardImageOne from "../../images/CardOneProfileImage.png";
+import AboutUsCardImageTwo from "../../images/CardTwoProfileImage.png";
+import AboutUsCardImageThree from "../../images/CardThreeProfileImage.png";
+import AboutUsCardImageFour from "../../images/CardProfileImageFour.png";
+import AboutUsCardImageFive from "../../images/CardProfileImageFive.png";
 import AboutUsCardImageSix from "../../images/Group 18197.png";
 import AbtPlusIcon from "../../images/AbtPlusIcon.png";
 const MoneyAfricaAboutUsPage = () => {
@@ -64,7 +64,9 @@ const MoneyAfricaAboutUsPage = () => {
           <div className="df justify-content-betw">
             <div>
               <div className="PositionCardImageWithPlusIcon">
-                <img src={AboutUsCardImageOne} />
+                <div className="StyleCardImageOne">
+                  <img src={AboutUsCardImageOne} />
+                </div>
                 <div className="PositionAbtPlusIcon">
                   <img src={AbtPlusIcon} />
                 </div>
@@ -76,7 +78,9 @@ const MoneyAfricaAboutUsPage = () => {
             </div>
             <div>
               <div className="PositionCardImageWithPlusIcon">
-                <img src={AboutUsCardImageTwo} />
+                <div className="StyleCardImageTwo">
+                  <img src={AboutUsCardImageTwo} />
+                </div>
                 <div className="PositionAbtPlusIcon">
                   <img src={AbtPlusIcon} />
                 </div>
@@ -88,7 +92,9 @@ const MoneyAfricaAboutUsPage = () => {
             </div>
             <div>
               <div className="PositionCardImageWithPlusIcon">
-                <img src={AboutUsCardImageThree} />
+                <div className="StyleCardImageThree">
+                  <img src={AboutUsCardImageThree} />
+                </div>
                 <div className="PositionAbtPlusIcon">
                   <img src={AbtPlusIcon} />
                 </div>
@@ -102,7 +108,9 @@ const MoneyAfricaAboutUsPage = () => {
           <div className="df justify-content-betw">
             <div>
               <div className="PositionCardImageWithPlusIcon">
-                <img src={AboutUsCardImageFour} />
+                <div className="StyleCardImageFour">
+                  <img src={AboutUsCardImageFour} />
+                </div>
                 <div className="PositionAbtPlusIcon">
                   <img src={AbtPlusIcon} />
                 </div>
@@ -114,7 +122,9 @@ const MoneyAfricaAboutUsPage = () => {
             </div>
             <div>
               <div className="PositionCardImageWithPlusIcon">
-                <img src={AboutUsCardImageFive} />
+                <div className="StyleCardImageFive">
+                  <img src={AboutUsCardImageFive} />
+                </div>
                 <div className="PositionAbtPlusIcon">
                   <img src={AbtPlusIcon} />
                 </div>
@@ -124,7 +134,7 @@ const MoneyAfricaAboutUsPage = () => {
             </div>
             <div>
               <div className="PositionCardImageWithPlusIcon">
-                <div className="StyleCardImage">
+                <div className="StyleCardImageSix">
                   <img
                     src={AboutUsCardImageSix}
                     className="PaddingForAboutUsCardImage"
