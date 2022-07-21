@@ -9,6 +9,7 @@ import AboutUsCardImageFour from "../../images/CardProfileImageFour.png";
 import AboutUsCardImageFive from "../../images/CardProfileImageFive.png";
 import AboutUsCardImageSix from "../../images/Group 18197.png";
 import AbtPlusIcon from "../../images/AbtPlusIcon.png";
+import MoneyAfricaChiefExecutiveImage from "../../images/MoneyAfricaChieftExecutiveImage.png";
 const MoneyAfricaAboutUsPage = () => {
   return (
     <React.Fragment>
@@ -149,6 +150,32 @@ const MoneyAfricaAboutUsPage = () => {
                 Business Performance Manager
               </p>
             </div>
+          </div>
+        </div>
+      </div>
+      <div className="MoneyAfricaAboutCEO">
+        <div className="df justify-content-betw align-items-centr">
+          <div>
+            <img src={MoneyAfricaChiefExecutiveImage} />
+          </div>
+          <div>
+            <p className="StyleExecutiveTextStyles">
+              “ Growing up, my family
+              <br /> struggled to make ends meet
+              <br /> despite my mom being one of the
+              <br /> hardest-working people I know.
+            </p>
+            <p className="StyleMoreExecutiveTextStyle">
+              The financial system is designed
+              <br /> to be intentionally complex, and
+              <br />
+              we created Tally to level the
+              <br /> playing field and put people’s
+              <br />
+              hard-earned money back in their
+              <br /> pockets.”
+            </p>
+            <p className="ChiefExecutiveName">Oluwatosin, Founder & CEO</p>
           </div>
         </div>
       </div>
