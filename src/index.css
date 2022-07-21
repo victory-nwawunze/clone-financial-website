@@ -1,26 +1,31 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Livvic:wght@300&display=swap');
 
-.text-font{
-font-family: 'Livvic', sans-serif;
+.text-font {
+  font-family: 'Livvic', sans-serif;
 }
 
-.padding-1{
+.padding-1 {
   padding: 3rem;
 }
-.container{
+
+.container {
   width: 90%;
 }
-.df{
+
+.df {
   display: flex;
 }
-.justify-content-betw{
+
+.justify-content-betw {
   justify-content: space-between;
 }
-.StyleText{
+
+.StyleText {
   font-weight: bold;
   font-size: 64px;
   color: #111111;
@@ -28,13 +33,15 @@ font-family: 'Livvic', sans-serif;
   margin-bottom: 0px;
   margin-top: 20%;
 }
-.styleTextDescription{
+
+.styleTextDescription {
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
   color: #111111;
 }
-.btnStyles{
+
+.btnStyles {
   padding-top: 10px;
   padding-bottom: 13px;
   padding-left: 30px;
@@ -49,7 +56,8 @@ font-family: 'Livvic', sans-serif;
   font-style: normal;
   margin-top: 25px;
 }
-.btnWhiteStyles{
+
+.btnWhiteStyles {
   padding-top: 10px;
   padding-bottom: 13px;
   padding-left: 30px;
@@ -64,53 +72,65 @@ font-family: 'Livvic', sans-serif;
   font-style: normal;
   margin-top: 25px;
 }
-.align-items-centr{
+
+.align-items-centr {
   align-items: center;
 }
-.text-center{
+
+.text-center {
   text-align: center;
 }
-.justify-content-centr{
+
+.justify-content-centr {
   justify-content: center;
 }
-.LinesStyle{
+
+.LinesStyle {
   border: 1px solid #B3AFAF;
 }
-.FeatureTextStyles{
+
+.FeatureTextStyles {
   padding-top: 40px;
   font-weight: 400;
   font-size: 16px;
   color: #111111;
   font-style: normal;
 }
-.SpaceAllImages{
+
+.SpaceAllImages {
   margin-right: 10%;
   margin-left: 5%;
   margin-top: 25px;
 }
-.MoneyAfricaWithVideoDescription{
+
+.MoneyAfricaWithVideoDescription {
   background-color: #E3EEE7;
 }
-.VideodescriptionContainer{
+
+.VideodescriptionContainer {
   width: 100%;
 }
-.PaddingTopAndBottom{
+
+.PaddingTopAndBottom {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
-.VideoDescriptionText{
+
+.VideoDescriptionText {
   font-weight: 500;
   color: #111111;
   font-size: 50px;
   font-style: normal;
 }
-.videoDescriptionText{
+
+.videoDescriptionText {
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   color: #111111;
 }
-.BtnWatchVideoStyle{
+
+.BtnWatchVideoStyle {
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 15px;
@@ -125,8 +145,9 @@ font-family: 'Livvic', sans-serif;
   font-style: normal;
   font-weight: 700;
 }
-.BtnWatchVideoNoStyles{
-   padding-left: 40px;
+
+.BtnWatchVideoNoStyles {
+  padding-left: 40px;
   padding-right: 40px;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -140,22 +161,26 @@ font-family: 'Livvic', sans-serif;
   font-style: normal;
   font-weight: 700;
 }
-.MoneyAfricaDescriptionWithCards{
+
+.MoneyAfricaDescriptionWithCards {
   background-color: #F3F4F5;
 }
-.TextStylesForTextDes{
+
+.TextStylesForTextDes {
   font-weight: 500;
   font-size: 50px;
   color: #111111;
   margin-top: 30px;
 }
-.MoreTextStylesForTextDes{
+
+.MoreTextStylesForTextDes {
   font-size: 18px;
   font-weight: 400;
   color: #111111;
   margin-top: 15px;
 }
-.CardForMoneyAfricaTextDescription{
+
+.CardForMoneyAfricaTextDescription {
   background-color: #fff;
   padding-right: 50px;
   margin-top: 30px;
@@ -163,28 +188,31 @@ font-family: 'Livvic', sans-serif;
   width: 120%;
 }
 
-.PremiumText{
+.PremiumText {
   font-weight: 500;
   font-size: 32px;
   color: #111111;
   padding-left: 20px;
   padding-top: 20px;
 }
-.MoneyCardText{
+
+.MoneyCardText {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   padding-left: 20px;
   padding-bottom: 50px;
 }
-.paddingRightForImage{
+
+.paddingRightForImage {
   position: relative;
   left: 11.5rem;
   margin-bottom: 0;
   bottom: -1.4rem;
   /* padding-bottom: 30px; */
 }
-.BAPstyle{
+
+.BAPstyle {
   position: relative;
   top: -80px;
   right: -55px;
@@ -193,49 +221,59 @@ font-family: 'Livvic', sans-serif;
   font-style: normal;
   font-weight: 700;
 }
-.PlayBookpaddingRightForImage{
-   position: relative;
+
+.PlayBookpaddingRightForImage {
+  position: relative;
   left: 14rem;
   margin-bottom: 0;
   bottom: -1.4rem;
 }
-.ASingleContainerWithGrid{
+
+.ASingleContainerWithGrid {
   background-color: white;
   margin-top: 30px;
 }
-.ADAstyles{
+
+.ADAstyles {
   font-weight: 500;
   font-size: 32px;
   color: #111111;
 }
-.improveText{
+
+.improveText {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
 }
-.footerText{
+
+.footerText {
   font-weight: 400;
   font-size: 16px;
   color: #111111;
   font-style: normal;
 }
-.PaddingForIcon{
+
+.PaddingForIcon {
   padding-right: 20px;
   padding-top: 10px;
   cursor: pointer;
 }
-.SpaceAllFooterText{
+
+.SpaceAllFooterText {
   padding-top: 30px;
 }
-.font-bolder{
+
+.font-bolder {
   font-weight: bolder;
 }
-.FooterText{
+
+.FooterText {
   font-weight: 400;
   font-size: 16px;
   color: #7C7C7C;
 }
-.inputWidth{
+
+.inputWidth {
   width: 180% !important;
   border-top: none;
   outline: none;
@@ -243,7 +281,8 @@ font-family: 'Livvic', sans-serif;
   border-right: none;
   border-bottom: 1px solid #E3EEE7;
 }
-.SubmitButton{
+
+.SubmitButton {
   margin-top: 8%;
   padding-left: 20px;
   padding-right: 25px;
@@ -253,28 +292,32 @@ font-family: 'Livvic', sans-serif;
   background-color: #C03E21;
   border: none;
   color: #fff;
-  cursor:pointer;
+  cursor: pointer;
 }
-.ContactUsText{
+
+.ContactUsText {
   font-weight: 500;
   font-size: 50px;
   color: #111111;
   font-style: none;
 }
-.ContactUsTextFont{
+
+.ContactUsTextFont {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   font-style: normal;
   margin-top: 10px;
 }
-.MoneyAfricaContactUsForm{
+
+.MoneyAfricaContactUsForm {
   margin: 0 auto;
   width: 40%;
   border: 1px solid #E3EEE7;
   border-radius: 4px;
 }
-.InputTextForContactForm{
+
+.InputTextForContactForm {
   width: 100%;
   outline: none;
   border-bottom: 1px solid #E3EEE7;
@@ -282,13 +325,15 @@ font-family: 'Livvic', sans-serif;
   border-left: none;
   border-right: none;
 }
-.paddingForContactFormCard{
+
+.paddingForContactFormCard {
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 5%;
   padding-bottom: 5%;
 }
-.YourNameStyles{
+
+.YourNameStyles {
   color: #E3EEE7;
   font-weight: 400;
   font-size: 14px;
@@ -296,15 +341,17 @@ font-family: 'Livvic', sans-serif;
   padding-bottom: 10px;
   /* padding-top: 10px; */
 }
-.EmailStyles{
-    color: #E3EEE7;
+
+.EmailStyles {
+  color: #E3EEE7;
   font-weight: 400;
   font-size: 14px;
   font-style: normal;
   padding-bottom: 10px;
   padding-top: 30px;
 }
-.FAQStyles{
+
+.FAQStyles {
   width: 100%;
   border-top: none;
   outline: none;
@@ -312,8 +359,9 @@ font-family: 'Livvic', sans-serif;
   border-right: none;
   border-bottom: 1px solid #E3EEE7;
 }
-.MessageStyles{
-    width: 100%;
+
+.MessageStyles {
+  width: 100%;
   border-top: none;
   outline: none;
   border-left: none;
@@ -321,7 +369,8 @@ font-family: 'Livvic', sans-serif;
   border-bottom: 1px solid #E3EEE7;
   padding-top: 20%;
 }
-.SendMessageButtonStyle{
+
+.SendMessageButtonStyle {
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 15px;
@@ -334,69 +383,78 @@ font-family: 'Livvic', sans-serif;
   margin-left: 26rem;
   cursor: pointer;
 }
-.StylesPathnerText{
+
+.StylesPathnerText {
   font-weight: 500;
   font-size: 50px;
   color: #111111;
   font-style: normal;
 }
-.PathnerText{
+
+.PathnerText {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   font-style: normal;
   padding-top: 10px;
 }
-.MoneyAfricaPremiumPage{
+
+.MoneyAfricaPremiumPage {
   background-color: #E3EEE7;
   padding: 5rem;
 }
 
-.padding-5{
+.padding-5 {
   padding: 3%;
 }
-.GrowFinancialTextStyle{
+
+.GrowFinancialTextStyle {
   font-size: 36px;
   font-weight: 500;
   font-style: normal;
   color: #111111;
 }
-.MoreFinancialTextStyle{
+
+.MoreFinancialTextStyle {
   font-style: normal;
   color: #111111;
   font-size: 18px;
   font-weight: 400;
 }
-.CardBorderOne{
+
+.CardBorderOne {
   border: 1px solid #E3EEE7;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    border-radius: 10px;
-    margin-right: -5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 10px;
+  margin-right: -5px;
 
 }
-.stylePremiumText{
+
+.stylePremiumText {
   color: #128E1F;
- padding-top: 10px;
- padding-bottom: 10px;
- padding-right: 25px;
- padding-left: 15px;
-}
-.StyleTextForMonthly{
-padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: -2px;
-    padding-left: 29px;
-    color: #7C7C7C;
-}
-.switch {
-      position: relative;
-    display: inline-block;
-    width: 60px;
-    height: 27px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 25px;
+  padding-left: 15px;
 }
 
-.switch input { 
+.StyleTextForMonthly {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: -2px;
+  padding-left: 29px;
+  color: #7C7C7C;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 27px;
+}
+
+.switch input {
   opacity: 0;
   width: 0;
   height: 0;
@@ -415,26 +473,26 @@ padding-top: 10px;
 }
 
 .slider:before {
-       position: absolute;
-    content: "";
-    height: 32px;
-    width: 37px;
-    left: -1px;
-    bottom: -2px;
-    background-color: white;
-    border: 1px solid black;
-    transition: .4s;
+  position: absolute;
+  content: "";
+  height: 32px;
+  width: 37px;
+  left: -1px;
+  bottom: -2px;
+  background-color: white;
+  border: 1px solid black;
+  transition: .4s;
 }
 
-input:checked + .slider {
+input:checked+.slider {
   background-color: #30656F;
 }
 
-input:focus + .slider {
+input:focus+.slider {
   box-shadow: 0 0 1px #2196F3;
 }
 
-input:checked + .slider:before {
+input:checked+.slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
@@ -448,44 +506,51 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
-.StyleTextForToggleButton{
-        padding-bottom: 11px;
-    /* padding-right: -2px; */
-    padding-left: 41px;
-    padding-top: 5px;
+
+.StyleTextForToggleButton {
+  padding-bottom: 11px;
+  /* padding-right: -2px; */
+  padding-left: 41px;
+  padding-top: 5px;
 }
-.StyleYearlyText{
- padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    padding-left: 43px;
-    color: #7C7C7C;
+
+.StyleYearlyText {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 43px;
+  color: #7C7C7C;
 }
-.StyleAmountText{
+
+.StyleAmountText {
   padding-top: 20px;
- padding-bottom: 18px;
- padding-right: 25px;
- padding-left: 24px;
- font-weight: 500;
- font-size: 32px;
- font-style: normal;
- color: #111111;
+  padding-bottom: 18px;
+  padding-right: 25px;
+  padding-left: 24px;
+  font-weight: 500;
+  font-size: 32px;
+  font-style: normal;
+  color: #111111;
 }
-.PerYearStyles{
+
+.PerYearStyles {
   font-weight: 400;
   font-size: 16px;
   font-style: normal;
   color: #B3AFAF;
-  
+
 }
-.StyleCardLines{
-  border:1px solid  #E3EEE7;
+
+.StyleCardLines {
+  border: 1px solid #E3EEE7;
 }
-.PaddingRightMarkIcon{
+
+.PaddingRightMarkIcon {
   padding-left: 20px;
   padding-top: 20px;
 }
-.CardText{
+
+.CardText {
   padding-left: 20px;
   padding-top: 20px;
   font-size: 14px;
@@ -493,11 +558,13 @@ input:checked + .slider:before {
   font-style: normal;
   color: #111111;
 }
-.PaddingRightTopMarkIcon{
+
+.PaddingRightTopMarkIcon {
   padding-left: 20px;
   padding-top: 30px;
 }
-.SubBtn{
+
+.SubBtn {
   margin-left: 12%;
   margin-top: 50px;
   padding-left: 30%;
@@ -511,83 +578,98 @@ input:checked + .slider:before {
   background-color: #015351;
   margin-bottom: 20px;
 }
-.CardTextForLst{
+
+.CardTextForLst {
   padding-top: 30px;
   padding-left: 20px;
 }
-.FAQStylesText{
+
+.FAQStylesText {
   font-weight: 500;
   font-size: 36px;
   font-style: none;
   color: #111111;
 }
-.FAQtextStyles{
-     padding-top: 5%;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    color: #111111;
-    padding-bottom: 40px;
+
+.FAQtextStyles {
+  padding-top: 5%;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #111111;
+  padding-bottom: 40px;
 }
-.MoneyAfricaAAccordion{
+
+.MoneyAfricaAAccordion {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10%;
   padding-right: 10%;
 }
-.PositionAccordionStylesWithLines{
+
+.PositionAccordionStylesWithLines {
   position: relative;
 }
-.PositionPlusImage{
+
+.PositionPlusImage {
   position: absolute;
   left: 66rem;
   top: -5rem;
   cursor: pointer;
 }
-.styleAccordionLine{
+
+.styleAccordionLine {
   border: 1px solid #E3EEE7;
 }
-.SpacingForAccordionLink{
+
+.SpacingForAccordionLink {
   margin-top: 5%;
   font-weight: 400;
   font-size: 18px;
   color: #7C7C7C;
   font-style: normal;
 }
-.SendUsAMessageTextStyles{
-   font-size: 18px;
+
+.SendUsAMessageTextStyles {
+  font-size: 18px;
   color: #C03E21;
   font-style: normal;
   border-bottom: 1px solid #C03E21;
   cursor: pointer;
 }
-.TATStyles{
+
+.TATStyles {
   font-weight: 500;
   font-size: 36px;
   color: #111111;
   margin-top: 7%;
 }
-.MoreTATTextStyles{
+
+.MoreTATTextStyles {
   font-weight: 400;
   font-size: 18;
   color: #111111;
   margin-top: 10px;
   margin-bottom: 5%;
 }
-.MoneyAfricaTestimonialCards{
- margin: 30px;
+
+.MoneyAfricaTestimonialCards {
+  margin: 30px;
 }
-.CardOne{
+
+.CardOne {
   border: 1px solid #015351;
   padding: 10px;
   border-radius: 10px;
 }
-.CardTwo{
-   border: 1px solid #E5E5E5;
+
+.CardTwo {
+  border: 1px solid #E5E5E5;
   padding: 10px;
   border-radius: 10px;
 }
-.TestimonialNameStyles{
+
+.TestimonialNameStyles {
   padding-top: 40px;
   padding-bottom: 10px;
   padding-left: 18px;
@@ -595,32 +677,38 @@ input:checked + .slider:before {
   font-size: 16px;
   color: #111111;
 }
-.TestimonialDescriptionStyles{
+
+.TestimonialDescriptionStyles {
   padding-left: 18px;
   padding-right: 10px;
   padding-bottom: 15%;
 }
-.TestimonialDescriptionStylesTwo{
+
+.TestimonialDescriptionStylesTwo {
   padding-left: 18px;
   padding-right: 30px;
   padding-bottom: 39%;
 }
-.TestimonialDescriptionStylesOne{
+
+.TestimonialDescriptionStylesOne {
   padding-left: 18px;
   padding-right: 30px;
   padding-bottom: 27%;
 }
-.MoneyAfricaArrows{
+
+.MoneyAfricaArrows {
   margin-top: 40px;
 }
-.RoundedCircle{
+
+.RoundedCircle {
   width: 45px;
   background-color: #C03E21;
   color: #C03E21;
   border-radius: 50px;
   cursor: pointer;
 }
-.SmallRoundedCircle{
+
+.SmallRoundedCircle {
   width: 25px;
   background-color: #E5E5E5;
   color: #E5E5E5;
@@ -628,7 +716,8 @@ input:checked + .slider:before {
   cursor: pointer;
   margin-left: 20px;
 }
-.LeftArrowStyles{
+
+.LeftArrowStyles {
   margin-left: 10px;
   background-color: #015351;
   border-radius: 50px;
@@ -638,8 +727,9 @@ input:checked + .slider:before {
   padding-bottom: 10px;
   cursor: pointer;
 }
-.RightArrowStyles{
-  border:1px solid #E5E5E5;
+
+.RightArrowStyles {
+  border: 1px solid #E5E5E5;
   border-radius: 50px;
   padding-left: 10px;
   padding-right: 10px;
@@ -648,17 +738,20 @@ input:checked + .slider:before {
   margin-right: 10px;
   cursor: pointer;
 }
-.MoneyAfricaComunityPageBannerStyles{
+
+.MoneyAfricaComunityPageBannerStyles {
   padding: 5rem;
   background-color: #E3EEE7;
 }
-.LearnTextStyles{
+
+.LearnTextStyles {
   font-weight: 500;
   font-size: 50px;
   color: #111111;
   text-align: center;
 }
-.JoinCommuntity{
+
+.JoinCommuntity {
   margin-left: 41%;
   margin-top: 30px;
   padding-top: 15px;
@@ -671,53 +764,62 @@ input:checked + .slider:before {
   border-radius: 8px;
   cursor: pointer;
 }
-.MoneyAfricaCommunityMembers{
+
+.MoneyAfricaCommunityMembers {
   padding-top: 20px;
   margin-bottom: 10%;
 }
 
 
-.MarginToWidth{
+.MarginToWidth {
   margin-left: 5%;
 }
-.MarginToCommunityText{
+
+.MarginToCommunityText {
   margin-right: 20%;
   margin-top: 10%;
 }
-.TextStylesForCommunity{
+
+.TextStylesForCommunity {
   font-weight: 500;
   font-size: 36px;
   color: #111111;
   font-style: normal;
 }
-.MoneyAfricaTextWithMarkIcon{
+
+.MoneyAfricaTextWithMarkIcon {
   margin-top: 30px;
 }
-.SpaceAllCommunityText{
+
+.SpaceAllCommunityText {
   padding-left: 20px;
   padding-top: 5px;
   padding-bottom: 10%;
 }
-.MoneyAfricaBannerText{
+
+.MoneyAfricaBannerText {
   margin-top: 20px;
   background-color: #fff;
   padding-top: 10px;
 }
-.AbtUsBannerTextStyle{
+
+.AbtUsBannerTextStyle {
   width: 500;
   font-size: 50px;
   color: #111111;
   font-style: normal;
   padding-bottom: 5px;
 }
-.MoreAbtTextStyles{
+
+.MoreAbtTextStyles {
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   padding-top: 10px;
 }
-.MoneyAfricaBannerImageStyles{
+
+.MoneyAfricaBannerImageStyles {
   padding-top: 10%;
   padding-bottom: 10%;
   padding-left: 10px;
@@ -731,7 +833,8 @@ input:checked + .slider:before {
   margin-left: 40px;
   margin-right: 40px;
 }
-.StylePlayIcon{
+
+.StylePlayIcon {
   background-color: #E3EEE7;
   padding-top: 13px;
   padding-bottom: 10px;
@@ -740,40 +843,46 @@ input:checked + .slider:before {
   border-radius: 50%;
   cursor: pointer;
 }
-.MoneyAfricaAboutUsDescriptionStyles{
+
+.MoneyAfricaAboutUsDescriptionStyles {
   margin-top: 5%;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-right: 15%;
   padding-left: 10%;
 }
-.SimplifyingTextStyles{
+
+.SimplifyingTextStyles {
   font-weight: 500;
   color: #111111;
   font-style: normal;
   font-size: 36px;
 }
-.MoneyAfricaAbtDesTextOne{
+
+.MoneyAfricaAbtDesTextOne {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   font-style: normal;
 }
-.MoneyAfricaAbtDesTextTwo{
-  font-weight: 400;
-  font-size: 18px;
-  color: #111111;
-  font-style: normal;
-  margin-top: 40px;
-}
-.MoneyAfricaAbtDesTextThree{
+
+.MoneyAfricaAbtDesTextTwo {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   font-style: normal;
   margin-top: 40px;
 }
-.ABTtext{
+
+.MoneyAfricaAbtDesTextThree {
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: normal;
+  margin-top: 40px;
+}
+
+.ABTtext {
   text-align: center;
   font-weight: 500;
   font-size: 36px;
@@ -781,39 +890,80 @@ input:checked + .slider:before {
   font-style: normal;
   margin-top: 40px;
 }
-.MoneyAfricaAbtCardsStyles{
+
+.MoneyAfricaAbtCardsStyles {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-right: 10%;
   padding-left: 10%;
   margin-top: 30px;
 }
-.PositionCardImageWithPlusIcon{
+
+.PositionCardImageWithPlusIcon {
   position: relative;
 }
-.PositionAbtPlusIcon{
+
+.PositionAbtPlusIcon {
   position: absolute;
   left: 19rem;
   top: 5%;
   cursor: pointer;
 }
-.CardNameStyle{
+
+.CardNameStyle {
   margin-top: 10px;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
   color: #111111;
 }
-.CardEmployeePosition{
+
+.CardEmployeePosition {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   color: #111111;
   padding-top: 10px;
 }
-.StyleCardImage{
+
+.StyleCardImageSix {
   background-color: #1DAD96;
   border-radius: 8px;
-    width: 100%;
-    height: 353px;
+  width: 100%;
+  height: 353px;
+}
+
+.StyleCardImageOne {
+  background-color: #F1B862;
+  border-radius: 8px;
+  width: 100%;
+  height: 353px;
+}
+
+.StyleCardImageTwo {
+  background-color: #8EAEFE;
+  border-radius: 8px;
+  width: 100%;
+  height: 353px;
+}
+
+.StyleCardImageThree {
+  background-color: #CB763B;
+  border-radius: 8px;
+  width: 100%;
+  height: 353px;
+}
+
+.StyleCardImageFour {
+  background-color: #62B5F3;
+  border-radius: 8px;
+  width: 100%;
+  height: 353px;
+}
+
+.StyleCardImageFive {
+  background-color: #B9B1F0;
+  border-radius: 8px;
+  width: 100%;
+  height: 353px;
 }
