@@ -1348,10 +1348,19 @@ input:checked+.slider:before {
   margin-top: 5px;
     margin-left: 10px;
     margin-right: 190px;
+    margin-bottom: 61px;
 }
 .BOSTextStyles{
   font-style: none;
   font-weight: 500;
   font-size: 36px;
   color: #111111;
+     margin-top: 132px;
+}
+.BOSWithText{
+  margin-top: 28px;
+}
+.AlignAllWalletImageText{
+  padding-left: 17px;
+  padding-bottom: 64px;
 }
