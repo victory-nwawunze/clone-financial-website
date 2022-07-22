@@ -2,6 +2,8 @@
 
 import React from "react";
 import SummerBootCampArrow from "../../images/SummerBootCampArrow.png";
+import MoneyAfricaKidsImage from "../../images/MoneyAfricaKidsImage.png";
+import ChevMarkedImage from "../../images/ChevMarkedImage.png";
 const MoneyAfricaSubscriptionForKids = () => {
   return (
     <React.Fragment>
@@ -39,10 +41,8 @@ const MoneyAfricaSubscriptionForKids = () => {
           </div>
           <div>
             <div className="MoneyAfricaForKidsCardTwo">
-              <p className="SummerBootcampTextStyles">Summer Boot Camp</p>
-              <p className="SummerBootcampDateStyles">
-                (August – September 2021)
-              </p>
+              <p className="SummerBootcampTextStyles">Weekend Boot Camp</p>
+              <p className="SummerBootcampDateStyles">(Quarterly Cohorts)</p>
               <p className="SummerBootcampDiscountTextStyles">
                 *up to 20% discount for siblings*
               </p>
@@ -52,6 +52,79 @@ const MoneyAfricaSubscriptionForKids = () => {
                   <img src={SummerBootCampArrow} />
                 </span>
               </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="MoneyAfricaWithKidsImageStyles">
+        <div className="df justify-content-betw">
+          <div>
+            <img src={MoneyAfricaKidsImage} />
+          </div>
+          <div>
+            <p className="MoneyAfricaKidsImageText">
+              Here’s why you should
+              <br /> enrol your child
+            </p>
+            <div className="df">
+              <div>
+                <img src={ChevMarkedImage} />
+              </div>
+              <div>
+                <p className="ChevMarkedTextStyle">
+                  Real-time engagements with our educators
+                </p>
+              </div>
+            </div>
+            <div className="df">
+              <div>
+                <img src={ChevMarkedImage} />
+              </div>
+              <div>
+                <p className="ChevMarkedTextStyle">
+                  Learn how to manage your expenses
+                </p>
+              </div>
+            </div>
+            <div className="df">
+              <div>
+                <img src={ChevMarkedImage} />
+              </div>
+              <div>
+                <p className="ChevMarkedTextStyle">
+                  Learn about savings, investment and insurance
+                </p>
+              </div>
+            </div>
+            <div className="df">
+              <div>
+                <img src={ChevMarkedImage} />
+              </div>
+              <div>
+                <p className="ChevMarkedTextStyle">
+                  Learn how to cultivate good financial habits
+                </p>
+              </div>
+            </div>
+            <div className="df">
+              <div>
+                <img src={ChevMarkedImage} />
+              </div>
+              <div>
+                <p className="ChevMarkedTextStyle">
+                  Ask questions and get support
+                </p>
+              </div>
+            </div>
+            <div className="df">
+              <div>
+                <img src={ChevMarkedImage} />
+              </div>
+              <div>
+                <p className="ChevMarkedTextStyle">
+                  Group discussion and games to support learning
+                </p>
+              </div>
             </div>
           </div>
         </div>
