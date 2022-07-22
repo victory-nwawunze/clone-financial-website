@@ -973,56 +973,65 @@ input:checked+.slider:before {
   margin-left: 10%;
   margin-right: 20%;
 }
-.StyleExecutiveTextStyles{
-font-weight: 500;
-font-style: normal;
-color: #111111;
-font-size: 32px;
+
+.StyleExecutiveTextStyles {
+  font-weight: 500;
+  font-style: normal;
+  color: #111111;
+  font-size: 32px;
 }
-.StyleMoreExecutiveTextStyle{
-font-weight: 500;
-font-style: normal;
-color: #111111;
-font-size: 32px;
-padding-top: 30px;
+
+.StyleMoreExecutiveTextStyle {
+  font-weight: 500;
+  font-style: normal;
+  color: #111111;
+  font-size: 32px;
+  padding-top: 30px;
 }
-.ChiefExecutiveName{
+
+.ChiefExecutiveName {
   font-weight: 400;
   color: #111111;
   font-size: 18px;
   font-style: normal;
   padding-top: 35px;
 }
-.MoneyAfricaMobileTextWithImage{
-      margin-top: 50px;
-    margin-left: 10%;
-    margin-right: 10%;
+
+.MoneyAfricaMobileTextWithImage {
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
-.LaddaTextStyle{
+
+.LaddaTextStyle {
   font-size: 18px;
   color: #015351;
   font-weight: 400;
   padding-bottom: 15px;
 }
-.PlatFormTextStyles{
+
+.PlatFormTextStyles {
   color: #111111;
   font-weight: 700;
   font-size: 35px;
   font-style: normal;
   padding-bottom: 15px;
 }
-.InvestmentTextStyles{
+
+.InvestmentTextStyles {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   font-style: normal;
   padding-bottom: 15px;
 }
-.AppsStoreIconStyles{
+
+.AppsStoreIconStyles {
   cursor: pointer;
   padding-bottom: 15px;
 }
-.GTWStyles{
+
+.GTWStyles {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
@@ -1034,29 +1043,33 @@ padding-top: 30px;
   font-size: 16px;
   font-weight: 700;
 }
-.MobileStylesImage{
+
+.MobileStylesImage {
   background-color: #F5C3C8;
-    padding-right: 36px;
-    padding-top: 82px;
-    padding-bottom: 10px;
-    padding-left: 81px;
-    width: 368px;
-    height: 340px;
+  padding-right: 36px;
+  padding-top: 82px;
+  padding-bottom: 10px;
+  padding-left: 81px;
+  width: 368px;
+  height: 340px;
 }
-.MoneyAfricaIntrestedTextAndStyles{
+
+.MoneyAfricaIntrestedTextAndStyles {
   text-align: center;
   margin-top: 10%;
   background-color: #E3EEE7;
-  padding-top:  10%;
+  padding-top: 10%;
   padding-bottom: 10%;
 }
-.TalentedStyleText{
+
+.TalentedStyleText {
   font-size: 36px;
   font-weight: 500;
   color: #111111;
   font-style: normal;
 }
-.CareerBTNtextStyles{
+
+.CareerBTNtextStyles {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-right: 10px;
@@ -1070,13 +1083,15 @@ padding-top: 30px;
   background-color: #015351;
   border-radius: 8px;
 }
-.MoneyAfricaSubscriptionForKidsBanner{
+
+.MoneyAfricaSubscriptionForKidsBanner {
   text-align: center;
   background-color: #E3EEE7;
   padding-top: 40px;
   padding-bottom: 30px;
 }
-.MoneyAfricaSubscriptionForKidsBannerTextStyles{
+
+.MoneyAfricaSubscriptionForKidsBannerTextStyles {
   color: #111111;
   font-weight: 500;
   font-size: 50px;
@@ -1084,93 +1099,106 @@ padding-top: 30px;
   padding-top: 30px;
   padding-bottom: 10px;
 }
-.BootcampTextStyles{
+
+.BootcampTextStyles {
   text-align: center;
   margin-top: 40px;
 }
-.HeadingBootcampTextStyles{
+
+.HeadingBootcampTextStyles {
   font-weight: 500;
   font-size: 36px;
   color: #111111;
 }
-.MoreHeadingBootcampTextStyles{
+
+.MoreHeadingBootcampTextStyles {
   font-size: 18px;
-    font-weight: 400;
-    padding-top: 10px;
-    font-style: normal;
-    margin-bottom: 40px;
-}
-.MoneyAfricaForKidsCard{
- margin-top: 20px;
-    margin-left: 20%;
-    margin-right: 23%;
-}
-.MoneyAfricaForKidsCardOne{
-     background-color: #F3F4F5;
-    border-radius: 8px;
-    padding-right: 56px;
-   
-}
-.SummerBootcampTextStyles{
-    font-size: 24px;
-    font-weight: 500;
-    color: #111111;
-    padding-top: 23px;
-    padding-left: 30px;
-    padding-right: 76px;
-}
-.SummerBootcampDateStyles{
-      font-size: 16px;
-    font-weight: 700;
-    color: #111111;
-    padding-top: 12px;
-    padding-left: 30px;
-    padding-right: 76px;
-  
-}
-.SummerBootcampDiscountTextStyles{
-   font-size: 12px;
-    font-weight: 400;
-    color: #111111;
-    font-style: italic;
-    padding-top: 22px;
-    padding-left: 30px;
-    padding-right: 76px;
-}
-.BTNSummerBootCampButtonStyles{
-  background-color: #F3F4F5;
-    margin-left: 30px;
-    padding-left: 7px;
-    padding-right: 7px;
-    margin-top: 27px;
-    border: none;
-    margin-bottom: 31px;
-    padding-top: 8px;
-    padding-bottom: 11px;
-    color: #015351;
-    border-radius: 8px;
-    cursor: pointer;
-}
-.MoneyAfricaForKidsCardTwo{
-      background-color: #F3F4F5;
-    border-radius: 8px;
-    padding-right: 56px;
-    margin-left: 20px;
-}
-.MoneyAfricaWithKidsImageStyles{
-    margin-top: 111px;
-    margin-left: 69px;
-    margin-right: 261px;
-    margin-bottom: 71px;
-}
-.MoneyAfricaKidsImageText{
+  font-weight: 400;
+  padding-top: 10px;
   font-style: normal;
-    color: #111111;
-    font-size: 36px;
-    font-weight: 500;
-    margin-bottom: 55px;
+  margin-bottom: 40px;
 }
-.ChevMarkedTextStyle{
+
+.MoneyAfricaForKidsCard {
+  margin-top: 20px;
+  margin-left: 20%;
+  margin-right: 23%;
+}
+
+.MoneyAfricaForKidsCardOne {
+  background-color: #F3F4F5;
+  border-radius: 8px;
+  padding-right: 56px;
+
+}
+
+.SummerBootcampTextStyles {
+  font-size: 24px;
+  font-weight: 500;
+  color: #111111;
+  padding-top: 23px;
+  padding-left: 30px;
+  padding-right: 76px;
+}
+
+.SummerBootcampDateStyles {
+  font-size: 16px;
+  font-weight: 700;
+  color: #111111;
+  padding-top: 12px;
+  padding-left: 30px;
+  padding-right: 76px;
+
+}
+
+.SummerBootcampDiscountTextStyles {
+  font-size: 12px;
+  font-weight: 400;
+  color: #111111;
+  font-style: italic;
+  padding-top: 22px;
+  padding-left: 30px;
+  padding-right: 76px;
+}
+
+.BTNSummerBootCampButtonStyles {
+  background-color: #F3F4F5;
+  margin-left: 30px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 27px;
+  border: none;
+  margin-bottom: 31px;
+  padding-top: 8px;
+  padding-bottom: 11px;
+  color: #015351;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.MoneyAfricaForKidsCardTwo {
+  background-color: #F3F4F5;
+  border-radius: 8px;
+  padding-right: 56px;
+  margin-left: 20px;
+}
+
+.MoneyAfricaWithKidsImageStyles {
+  margin-top: 111px;
+  margin-left: 69px;
+  margin-right: 261px;
+  margin-bottom: 71px;
+}
+
+.MoneyAfricaKidsImageText {
+  font-style: normal;
+  color: #111111;
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 55px;
+}
+
+.ChevMarkedTextStyle {
   color: #111111;
   font-weight: 400;
   font-size: 18px;
@@ -1178,15 +1206,94 @@ padding-top: 30px;
   padding-left: 10px;
   margin-bottom: 32px;
 }
-.MoneyAfricaAdvisoryBanner{
+
+.MoneyAfricaAdvisoryBanner {
   background-color: #E3EEE7;
-    padding-top: 92px;
-    padding-bottom: 80px;
+  padding-top: 92px;
+  padding-bottom: 80px;
 }
-.MoneyAfricaAdvisoryBannerText{
-text-align: center;
+
+.MoneyAfricaAdvisoryBannerText {
+  text-align: center;
   color: #111111;
   font-style: normal;
   font-weight: 500;
   font-size: 50px;
+}
+
+.MoneyAfricaDigitalAdvisoryCards {
+  margin-top: 59px;
+  margin-left: 62px;
+  margin-right: 62px;
+}
+
+.GYFTextStyles {
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+  font-style: normal;
+}
+
+.MoreGYFTextStyles {
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: none;
+  margin-top: 10px;
+}
+
+.MoneyAfricaDigitalAdvisoryCardBorder {
+  border: 1px solid #E3EEE7;
+}
+
+.FHCstyles {
+  padding-right: 192px;
+  padding-left: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #128E1F;
+}
+
+.FreeAndYearlyStylesText {
+  padding-right: 192px;
+  padding-left: 12px;
+  padding-bottom: 12px;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+}
+
+.PerYearStylesText {
+  font-weight: 400;
+  font-size: 16px;
+  color: #B3AFAF;
+  font-style: normal;
+}
+
+.LineFreeAndYearlyStylesText {
+  border: 1px solid #E3EEE7;
+}
+
+.STSTextStyle {
+  padding-top: 28px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  font-weight: 200;
+  font-size: 16px;
+  color: #111111;
+}
+
+.MoreSTSTextStyle {
+  font-weight: 700;
+  font-size: 16px;
+  color: #111111;
+}
+
+.STSTextStyleTwo {
+  padding-top: 10px;
+  padding-bottom: 147px;
+  padding-left: 12px;
+  font-weight: 200;
+  font-size: 16px;
+  color: #111111;
 }
