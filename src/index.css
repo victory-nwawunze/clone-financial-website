@@ -1095,14 +1095,15 @@ padding-top: 30px;
 }
 .MoreHeadingBootcampTextStyles{
   font-size: 18px;
-  font-weight: 400;
-  padding-top: 10px;
-  font-style: normal;
+    font-weight: 400;
+    padding-top: 10px;
+    font-style: normal;
+    margin-bottom: 40px;
 }
 .MoneyAfricaForKidsCard{
-     margin-top: 20px;
-    margin-left: 17%;
-    margin-right: 17%;
+ margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 23%;
 }
 .MoneyAfricaForKidsCardOne{
      background-color: #F3F4F5;
@@ -1155,4 +1156,24 @@ padding-top: 30px;
     border-radius: 8px;
     padding-right: 56px;
     margin-left: 20px;
+}
+.MoneyAfricaWithKidsImageStyles{
+     margin-top: 111px;
+    margin-left: 69px;
+    margin-right: 261px;
+}
+.MoneyAfricaKidsImageText{
+  font-style: normal;
+    color: #111111;
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 55px;
+}
+.ChevMarkedTextStyle{
+  color: #111111;
+  font-weight: 400;
+  font-size: 18px;
+  padding-top: 5px;
+  padding-left: 10px;
+  margin-bottom: 32px;
 }
