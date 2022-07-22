@@ -4,6 +4,8 @@ import React from "react";
 import SummerBootCampArrow from "../../images/SummerBootCampArrow.png";
 import MoneyAfricaKidsImage from "../../images/MoneyAfricaKidsImage.png";
 import ChevMarkedImage from "../../images/ChevMarkedImage.png";
+import MoneyAfricaAccordion from "../MoneyAfricaAccordion/MoneyAfricaAccordion";
+import MoneyAfricaTestimonialPage from "../MoneyAfricaTestimonialPage/MoneyAfricaTestimonialPage";
 const MoneyAfricaSubscriptionForKids = () => {
   return (
     <React.Fragment>
@@ -129,6 +131,8 @@ const MoneyAfricaSubscriptionForKids = () => {
           </div>
         </div>
       </div>
+      <MoneyAfricaAccordion />
+      <MoneyAfricaTestimonialPage />
     </React.Fragment>
   );
 };
