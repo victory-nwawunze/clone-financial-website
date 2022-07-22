@@ -2,7 +2,10 @@
 
 import React from "react";
 import MarkedIcon from "../../images/MarkedIcon.png";
+import MoneyAfricaCommunityMarkedIcon from "../../images/CommunityMarkedIcon.png";
 import MoneyAfrcaWalletImage from "../../images/MoneyAfricaWalletImage.png";
+import MoneyAfricaAccordion from "../MoneyAfricaAccordion/MoneyAfricaAccordion";
+import MoneyAfricaTestimonialPage from "../MoneyAfricaTestimonialPage/MoneyAfricaTestimonialPage";
 const MoneyAfricaDigitalAdvisoryPage = () => {
   return (
     <React.Fragment>
@@ -78,7 +81,7 @@ const MoneyAfricaDigitalAdvisoryPage = () => {
         </div>
       </div>
       <div className="MoneyAfricaImageWithWalletImageAndText">
-        <div className="df justify-content-betw align-items-centr">
+        <div className="df justify-content-betw">
           <div>
             <img src={MoneyAfrcaWalletImage} />
           </div>
@@ -87,9 +90,45 @@ const MoneyAfricaDigitalAdvisoryPage = () => {
               Benefits of subscribing for our
               <br /> investment Advisory
             </p>
+            <div className="BOSWithText">
+              <div className="df">
+                <div>
+                  <img src={MoneyAfricaCommunityMarkedIcon} />
+                </div>
+                <div>
+                  <p className="AlignAllWalletImageText">
+                    Gives you information needed to achieve financial
+                    <br /> resilience
+                  </p>
+                </div>
+              </div>
+              <div className="df">
+                <div>
+                  <img src={MoneyAfricaCommunityMarkedIcon} />
+                </div>
+                <div>
+                  <p className="AlignAllWalletImageText">
+                    Ensures you are on track with your financial goals
+                  </p>
+                </div>
+              </div>
+              <div className="df">
+                <div>
+                  <img src={MoneyAfricaCommunityMarkedIcon} />
+                </div>
+                <div>
+                  <p className="AlignAllWalletImageText">
+                    Saves you the time needed to track and rebalance
+                    <br /> your portfolio
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
+      <MoneyAfricaAccordion />
+      <MoneyAfricaTestimonialPage />
     </React.Fragment>
   );
 };
