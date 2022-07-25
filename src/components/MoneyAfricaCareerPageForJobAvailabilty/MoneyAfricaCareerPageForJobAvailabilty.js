@@ -4,6 +4,8 @@ import React from "react";
 import MoneyAfricaBannerTextWithBackgroundColor from "../MoneyAfricaBannerTextWithBackgroundColor/MoneyAfricaBannerTextWithBackgroundColor";
 import MoneyAfricaCareerPageBannerComponent from "../MoneyAfricaCareerPageBannerComponent/MoneyAfricaCareerPageBannerComponent";
 import BriefCaseImage from "../../images/BriefCaseImage.png";
+import MoneyAfricaCareerBannerImage from "../MoneyAfricaCareerBannerImage/MoneyAfricaCareerBannerImage";
+import MoneyAfricaCareerDescriptionTextComponent from "../MoneyAfricaCareerDescriptionTextComponent/MoneyAfricaCareerDescriptionTextComponent";
 
 const MoneyAfricaCareerPageForJobAvailabilty = () => {
   return (
@@ -15,8 +17,10 @@ const MoneyAfricaCareerPageForJobAvailabilty = () => {
       </div>
       <div className="JobStatusWithImage">
         <img src={BriefCaseImage} />
-        <p>No available jobs now</p>
+        <p className="NoAvailableTextStyles">No available jobs now</p>
       </div>
+      <MoneyAfricaCareerBannerImage />
+      <MoneyAfricaCareerDescriptionTextComponent />
     </React.Fragment>
   );
 };
