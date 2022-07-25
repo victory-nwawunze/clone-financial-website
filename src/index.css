@@ -1504,65 +1504,82 @@ input:checked+.slider:before {
   margin-left: 108px;
   margin-right: 20%;
 }
-.LineWithImageMargins{
+
+.LineWithImageMargins {
   padding-right: 25px;
 }
-.PhoneValidationTextStyles{
+
+.PhoneValidationTextStyles {
   font-style: normal;
   color: #111111;
   font-weight: 500;
   font-size: 24px;
 }
-.PhoneValidationDescription{
+
+.PhoneValidationDescription {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   padding-top: 5px;
 }
-.OnsiteInterviewTextStyles{
-   font-style: normal;
+
+.OnsiteInterviewTextStyles {
+  font-style: normal;
   color: #111111;
   font-weight: 500;
   font-size: 24px;
 }
-.MarginForOnSiteInterview{
+
+.MarginForOnSiteInterview {
   margin-top: 82px;
 }
-.OnsiteInterViewDescriptionStyles{
-   font-weight: 400;
-  font-size: 18px;
-  color: #111111;
-  padding-top: 5px;
-}
-.MarginForCultureTestStyles{
-  margin-top: 99px;
-}
-.CultureTestStyles{
-     font-style: normal;
-  color: #111111;
-  font-weight: 500;
-  font-size: 24px;
-}
-.CultureTestStylesDescription{
+
+.OnsiteInterViewDescriptionStyles {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   padding-top: 5px;
 }
-.StylesAvailabeTextFonts{
+
+.MarginForCultureTestStyles {
+  margin-top: 99px;
+}
+
+.CultureTestStyles {
+  font-style: normal;
+  color: #111111;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.CultureTestStylesDescription {
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  padding-top: 5px;
+}
+
+.StylesAvailabeTextFonts {
   margin-top: 59px;
   text-align: center;
   font-weight: 500;
   font-size: 50px;
   color: #111111;
 }
-.JobStatusWithImage{
+
+.JobStatusWithImage {
   text-align: center;
   margin-top: 52px;
   background-color: #F3F4F5;
-     margin-left: 209px;
-    margin-right: 243px;
-    padding-top: 47px;
-    padding-bottom: 47px;
-    border-radius: 8px;
+  margin-left: 209px;
+  margin-right: 243px;
+  padding-top: 47px;
+  padding-bottom: 47px;
+  border-radius: 8px;
+}
+.NoAvailableTextStyles{
+  color: #111111;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
 }
