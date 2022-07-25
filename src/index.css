@@ -1398,11 +1398,89 @@ input:checked+.slider:before {
   margin-left: 19px;
   margin-right: 10px;
 }
-.ValueThatDefinesUsTextStyles{
-  margin-top: 10px;
+
+.ValueThatDefinesUsTextStyles {
+  margin-top: 58px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-right: 10px;
   padding-left: 10px;
   background-color: #E3EEE7;
+}
+
+.VADUStyles {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+  padding-top: 66px;
+  padding-bottom: 57px;
+  text-align: center;
+}
+
+.DontSayStyles {
+  padding-top: 10px;
+  padding-bottom: 17px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: #111111;
+}
+
+.FlexAllValueTextStyles {
+  margin-left: 116px;
+}
+
+.SYMStylesText {
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  padding-left: 36px;
+  padding-right: 25px;
+  padding-bottom: 88px;
+}
+.AvailablePositionStyles{
+  margin-top: 61px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+}
+.JobTitleSemiCard{
+    border: 1px solid #E3EEE7;
+    margin-top: 41px;
+    margin-right: 257px;
+    margin-left: 200px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
+}
+.JobTitle{
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #111111;
+}
+.JobLocation{
+  padding-bottom: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #111111;
+  font-weight: 400;
+  font-size: 14px;
+}
+.RMStyles{
+  background-color: white;
+  color: #111111;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
 }
