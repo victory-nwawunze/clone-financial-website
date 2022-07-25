@@ -1577,9 +1577,30 @@ input:checked+.slider:before {
   padding-bottom: 47px;
   border-radius: 8px;
 }
-.NoAvailableTextStyles{
+
+.NoAvailableTextStyles {
   color: #111111;
   font-size: 18px;
   font-weight: 500;
   cursor: pointer;
+}
+
+.MoneyAfricaToolsPageBannerStyles {
+  text-align: center;
+  background-color: #E3EEE7;
+  padding-top: 116px;
+  padding-bottom: 57px;
+}
+
+.InvestMentTextStyles {
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+}
+
+.MoreInvestMentTextStyles {
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  padding-top: 5px;
 }
