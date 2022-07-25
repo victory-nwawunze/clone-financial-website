@@ -1549,3 +1549,20 @@ input:checked+.slider:before {
   color: #111111;
   padding-top: 5px;
 }
+.StylesAvailabeTextFonts{
+  margin-top: 59px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+}
+.JobStatusWithImage{
+  text-align: center;
+  margin-top: 52px;
+  background-color: #F3F4F5;
+     margin-left: 209px;
+    margin-right: 243px;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    border-radius: 8px;
+}
