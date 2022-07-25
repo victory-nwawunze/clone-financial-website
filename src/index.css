@@ -1245,6 +1245,7 @@ input:checked+.slider:before {
 .MoneyAfricaDigitalAdvisoryCardBorder {
   border: 1px solid #E3EEE7;
 }
+
 /* .MoneyAfricaDigitalAdvisoryCardBorderTwo{
   border: 1px solid #E3EEE7;
 } */
@@ -1300,67 +1301,108 @@ input:checked+.slider:before {
   font-size: 16px;
   color: #111111;
 }
-.AdvisorySubscribeButton{
-     margin-right: 10px;
-    margin-left: 32px;
-    padding-left: 108px;
-    padding-right: 110px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #015351;
-    color: #fff;
-    margin-bottom: 39px;
-    border-radius: 8px;
-    border: none;
-    font-size: 16px;
-    font-weight: 700;
-    cursor: pointer;
+
+.AdvisorySubscribeButton {
+  margin-right: 10px;
+  margin-left: 32px;
+  padding-left: 108px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #015351;
+  color: #fff;
+  margin-bottom: 39px;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
 }
-.SpacedMarkedIcon{
+
+.SpacedMarkedIcon {
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 10px;
   margin-right: 10px;
 }
-.CYFTextStyles{
-   padding-top: 10px;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-bottom: 10px;
+
+.CYFTextStyles {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
-.AdvisorySubscribeButtonTwo{
-   margin-right: 10px;
-    margin-left: 32px;
-    padding-left: 108px;
-    padding-right: 110px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #015351;
-    color: #fff;
-    margin-bottom: 39px;
-    border-radius: 8px;
-    border: none;
-    font-size: 16px;
-    font-weight: 700;
-    cursor: pointer;
+
+.AdvisorySubscribeButtonTwo {
+  margin-right: 10px;
+  margin-left: 32px;
+  padding-left: 108px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #015351;
+  color: #fff;
+  margin-bottom: 39px;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
 }
-.MoneyAfricaImageWithWalletImageAndText{
+
+.MoneyAfricaImageWithWalletImageAndText {
   margin-top: 5px;
-    margin-left: 10px;
-    margin-right: 190px;
-    margin-bottom: 61px;
+  margin-left: 10px;
+  margin-right: 190px;
+  margin-bottom: 61px;
 }
-.BOSTextStyles{
+
+.BOSTextStyles {
   font-style: none;
   font-weight: 500;
   font-size: 36px;
   color: #111111;
-     margin-top: 132px;
+  margin-top: 132px;
 }
-.BOSWithText{
+
+.BOSWithText {
   margin-top: 28px;
 }
-.AlignAllWalletImageText{
+
+.AlignAllWalletImageText {
   padding-left: 17px;
   padding-bottom: 64px;
+}
+
+.CareerPageTopBannerText {
+  margin-top: 92px;
+  text-align: center;
+}
+
+.CareerPageBannerHeader {
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+  font-style: none;
+}
+
+.CareerPageBannerDescription {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+}
+
+.CareerPageBannerImage {
+  margin-top: 64px;
+  margin-left: 19px;
+  margin-right: 10px;
+}
+.ValueThatDefinesUsTextStyles{
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: #E3EEE7;
 }
