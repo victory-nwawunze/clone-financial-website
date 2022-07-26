@@ -1604,3 +1604,183 @@ input:checked+.slider:before {
   color: #111111;
   padding-top: 5px;
 }
+
+.MoneyAfricaToolsPageCard {
+  margin-top: 74px;
+    margin-right: 204px;
+    margin-left: 215px;
+}
+
+.MoneyAfricaCardOne {
+  border: 1px solid #E5E5E5;
+}
+
+.EducationFundTextStyles {
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 10px;
+  color: #111111;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.MoreEducationFundTextStyles {
+  padding-top: 5px;
+  padding-left: 26px;
+  padding-right: 26px;
+  color: #111111;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.EstimateBTNStyles {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: #fff;
+  color: #015351;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 24px;
+  margin-right: 10px;
+  margin-left: 18px;
+  margin-bottom: 40px;
+  border: none;
+}
+
+.MarginTopArrowImage {
+  margin-top: 32px;
+}
+
+.MoneyAfricaCardTwo {
+  border: 1px solid #E5E5E5;
+}
+
+.SavingsTextStyles {
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 10px;
+  color: #111111;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.MoreSavingsTextStyles {
+  padding-top: 5px;
+  padding-left: 26px;
+  padding-right: 26px;
+  color: #111111;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.CalculateBTNStyles {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #fff;
+  border: none;
+  margin-top: 24px;
+  margin-left: 18px;
+  margin-right: 10px;
+  margin-bottom: 56px;
+  color: #015351;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.MarginTopCalculateYourSavingsBTNStyle {
+  margin-top: 32px;
+}
+
+.MoneyAfricaToolsCardPageTwo {
+margin-top: 74px;
+    margin-right: 204px;
+    margin-left: 215px;
+}
+
+.MoneyAfricaCardThreeStyles {
+  border: 1px solid #E5E5E5;
+}
+
+.InvestmentFontStyles {
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 10px;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+}
+
+.MoreInvestmentFontStylesForToolsPage {
+  padding-top: 5px;
+  padding-right: 54px;
+  padding-left: 26px;
+  color: #111111;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.CYIStylesButton {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 24px;
+  background-color: #fff;
+  border: none;
+  color: #015351;
+  margin-left: 18px;
+  margin-right: 10px;
+  margin-bottom: 40px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.CTYStylesButton {
+  margin-top: 32px;
+}
+
+.MoneyAfricaCardFourStyle {
+  border: 1px solid #E5E5E5;
+}
+
+.RetirementPortfolioStyles {
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 10px;
+  color: #111111;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.MoreRetirementPortfolioStyles {
+  padding-top: 5px;
+  padding-left: 26px;
+  padding-right: 34px;
+  color: #111111;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.CYRBTNStyles {
+  padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-left: 18px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    background-color: white;
+    color: #015351;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.PositionCYRStyles {
+  margin-top: 17px;
+}

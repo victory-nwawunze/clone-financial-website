@@ -13,19 +13,19 @@ const MoneyAfricaToolsPage = () => {
           resources, or get personal financial advice from our advisors.{" "}
         </p>
       </div>
-      {/* <div className="MoneyAfricaToolPageCardStyles">
+      <div className="MoneyAfricaToolsPageCard">
         <div className="df justify-content-betw">
           <div>
-            <div className="MoneyAfricaToolsCard">
-              <h3 className="EductionFundStyles">
+            <div className="MoneyAfricaCardOne">
+              <h4 className="EducationFundTextStyles">
                 Education Fund
                 <br /> estimate
-              </h3>
-              <p className="MoreEductionFundStyles">
+              </h4>
+              <p className="MoreEducationFundTextStyles">
                 This calculator helps you determine how much you
                 <br /> will need for school within a number of years
               </p>
-              <div className="MarginTopForButton">
+              <div className="MoneyAfricaCardButtonStyles">
                 <div className="df">
                   <div>
                     <input
@@ -34,7 +34,7 @@ const MoneyAfricaToolsPage = () => {
                       className="EstimateBTNStyles"
                     />
                   </div>
-                  <div className="PositionArrowImage">
+                  <div className="MarginTopArrowImage">
                     <img src={RightArrImage} />
                   </div>
                 </div>
@@ -42,23 +42,23 @@ const MoneyAfricaToolsPage = () => {
             </div>
           </div>
           <div>
-            <div className="MoneyAfricaToolsCard">
-              <h3 className="EductionFundStyles">Savings Investment</h3>
-              <p className="MoreEductionFundStyles">
+            <div className="MoneyAfricaCardTwo">
+              <h4 className="SavingsTextStyles">Savings Investment</h4>
+              <p className="MoreSavingsTextStyles">
                 This calculator helps you determine how much you
                 <br /> need to save monthly to meet a targeted amount
                 <br /> by the time you need it.
               </p>
-              <div className="MarginTopForButton">
+              <div className="MoneyAfricaCardCalculateYourSavingsButtonStyles">
                 <div className="df">
                   <div>
                     <input
                       type="button"
                       value="Calculate your savings"
-                      className="CalculateStyleButton"
+                      className="CalculateBTNStyles"
                     />
                   </div>
-                  <div className="PositionArrowImage">
+                  <div className="MarginTopCalculateYourSavingsBTNStyle">
                     <img src={RightArrImage} />
                   </div>
                 </div>
@@ -67,25 +67,26 @@ const MoneyAfricaToolsPage = () => {
           </div>
         </div>
       </div>
-      <div className="MoneyAfricaToolPageCardStyles">
+      <div className="MoneyAfricaToolsCardPageTwo">
         <div className="df justify-content-betw">
           <div>
-            <div className="MoneyAfricaToolsCard">
-              <h3 className="EductionFundStyles">Investment Calculator</h3>
-              <p className="MoreEductionFundStyles">
-                This calculator helps you determine how much you
-                <br /> will need for school within a number of years
+            <div className="MoneyAfricaCardThreeStyles">
+              <h4 className="InvestmentFontStyles">Investment Calculator</h4>
+              <p className="MoreInvestmentFontStylesForToolsPage">
+                This calculator helps you determine how much
+                <br /> your periodic investments will amount to in the <br />
+                future.
               </p>
-              <div className="MarginTopForButton">
+              <div className="MoneyAfricaInvestMentBTNStyles">
                 <div className="df">
                   <div>
                     <input
                       type="button"
                       value="Calculate your investment"
-                      className="EstimateBTNStylesThree"
+                      className="CYIStylesButton"
                     />
                   </div>
-                  <div className="PositionArrowImage">
+                  <div className="CTYStylesButton">
                     <img src={RightArrImage} />
                   </div>
                 </div>
@@ -93,26 +94,25 @@ const MoneyAfricaToolsPage = () => {
             </div>
           </div>
           <div>
-            <div className="MoneyAfricaToolsCard">
-              <h3 className="EductionFundStyles">
+            <div className="MoneyAfricaCardFourStyle">
+              <h4 className="RetirementPortfolioStyles">
                 Retirement Portfolio
                 <br /> Calculator
-              </h3>
-              <p className="MoreEductionFundStyles">
-                This calculator helps you determine how much you
-                <br /> need to save monthly to meet a targeted amount
-                <br /> by the time you need it.
+              </h4>
+              <p className="MoreRetirementPortfolioStyles">
+                Estimating Your Retirement Needs Using the Cost
+                <br /> of Living Approach
               </p>
-              <div className="MarginTopForButton">
+              <div className="MoneyAfricaCYRStyles">
                 <div className="df">
                   <div>
                     <input
                       type="button"
-                      value="Calculate your savings"
-                      className="CalculateStyleButtonFour"
+                      value="Calculate your retirement portfolio"
+                      className="CYRBTNStyles"
                     />
                   </div>
-                  <div className="PositionArrowImage">
+                  <div className="PositionCYRStyles">
                     <img src={RightArrImage} />
                   </div>
                 </div>
@@ -120,7 +120,7 @@ const MoneyAfricaToolsPage = () => {
             </div>
           </div>
         </div>
-      </div> */}
+      </div>
     </React.Fragment>
   );
 };
