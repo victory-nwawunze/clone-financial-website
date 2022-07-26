@@ -1819,4 +1819,16 @@ input:checked+.slider:before {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
+  font-style: normal;
+}
+.MoneyAfricaSavingsCalculator{
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.InvestmentPeriodFormText{
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  
 }
