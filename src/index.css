@@ -1607,8 +1607,8 @@ input:checked+.slider:before {
 
 .MoneyAfricaToolsPageCard {
   margin-top: 74px;
-    margin-right: 204px;
-    margin-left: 215px;
+  margin-right: 204px;
+  margin-left: 215px;
 }
 
 .MoneyAfricaCardOne {
@@ -1696,9 +1696,9 @@ input:checked+.slider:before {
 }
 
 .MoneyAfricaToolsCardPageTwo {
-margin-top: 74px;
-    margin-right: 204px;
-    margin-left: 215px;
+  margin-top: 74px;
+  margin-right: 204px;
+  margin-left: 215px;
 }
 
 .MoneyAfricaCardThreeStyles {
@@ -1767,20 +1767,56 @@ margin-top: 74px;
 
 .CYRBTNStyles {
   padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-top: 10px;
-    margin-left: 18px;
-    margin-right: 10px;
-    margin-bottom: 40px;
-    background-color: white;
-    color: #015351;
-    border: none;
-    font-size: 16px;
-    font-weight: 700;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-left: 18px;
+  margin-right: 10px;
+  margin-bottom: 40px;
+  background-color: white;
+  color: #015351;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
 }
 
 .PositionCYRStyles {
   margin-top: 17px;
+}
+
+.MoneyAfricaSavingAndInvestmentPageBannerStyles {
+  padding-top: 76px;
+  text-align: center;
+}
+
+.CalculateStylesText {
+  padding-top: 10px;
+  color: #111111;
+  font-weight: 500;
+  font-size: 32px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.MoneyAfricaInvestmentLineStyles {
+  border: 1px solid #E5E5E5;
+}
+
+.SGCFlexDiv {
+  margin-left: 394px;
+  margin-right: 407px;
+}
+
+.SavingTextStyles {
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+  font-style: normal;
+}
+.StyleMoreMoneyAfricaInvestmentText{
+  padding-top: 15px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
 }
