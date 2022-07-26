@@ -79,7 +79,33 @@ const MoneyAfricaSavingInvestmentPage = () => {
               </div>
             </div>
           </div>
-          <div>2</div>
+          <div>
+            <div className="MoneyAfricaSavingInvestmentCardStyles">
+              <div className="MoneyAfricaSavingInvestmentInnerTextCardStyles">
+                <div className="df">
+                  <div className="MarginMoneyAfricaSavingTextOne">
+                    <p>You need to invest</p>
+                    <h4>£1,793.38</h4>
+                    <p>monthly</p>
+                  </div>
+                  <div className="MarginMoneyAfricaSavingTextTwo">
+                    <p>At an interest of</p>
+                    <h4>5.0%</h4>
+                    <p>per annum</p>
+                  </div>
+                  <div className="MarginMoneyAfricaSavingTextThree">
+                    <p>For a period of</p>
+                    <h4>5 </h4>
+                    <p>years</p>
+                  </div>
+                </div>
+              </div>
+              <div className="MoneyAfricaTotalAmountTextStyles">
+                <p>To get a total of</p>
+                <h2>£122,248.10</h2>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </React.Fragment>

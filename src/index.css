@@ -1825,8 +1825,8 @@ input:checked+.slider:before {
 
 .MoneyAfricaSavingsCalculator {
   margin-top: 56px;
-    margin-right: 10px;
-    margin-left: 143px;
+  margin-right: 10px;
+  margin-left: 143px;
 }
 
 .InvestmentPeriodFormText {
@@ -1853,11 +1853,49 @@ input:checked+.slider:before {
   color: #111111;
   padding-bottom: 10px;
 }
-.MarginForAllTheInputField{
+
+.MarginForAllTheInputField {
   margin-bottom: 36px;
 }
+
 .PositionDropdownImage {
-    position: relative;
-    left: 390px;
-    top: -36px;
+  position: relative;
+  left: 390px;
+  top: -36px;
+}
+
+/* .MarginMoneyAfricaSavingTextOne{
+  
+} */
+.MoneyAfricaSavingInvestmentCardStyles {
+  background: #FFFFFF;
+  box-shadow: 0px 24px 32px rgba(0, 0, 0, 0.04), 0px 16px 24px rgba(0, 0, 0, 0.04), 0px 4px 8px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+  border-radius: 8px;
+}
+
+.MoneyAfricaSavingInvestmentInnerTextCardStyles {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.MarginMoneyAfricaSavingTextOne {
+  padding-top: 47px;
+  padding-left: 46px;
+  padding-right: 94px;
+}
+.MarginMoneyAfricaSavingTextTwo{
+    padding-top: 45px;
+    padding-left: 17px;
+    padding-right: 84px;
+}
+.MarginMoneyAfricaSavingTextThree{
+padding-top: 45px;
+    padding-left: 10px;
+    padding-right: 54px;
+}
+.MoneyAfricaTotalAmountTextStyles{
+  padding-top: 47px;
+    padding-left: 48px;
+    padding-bottom: 44px;
 }
