@@ -23,6 +23,31 @@ const MoneyAfricaSavingInvestmentPage = () => {
           <br /> monthly to meet a targeted amount by the time you need it.
         </p>
       </div>
+      <div className="MoneyAfricaSavingsCalculator">
+        <div className="df justify-content-betw">
+          <div>
+            <div>
+              <p className="InvestmentPeriodFormText">
+                Investment period (years)
+              </p>
+              <input
+                type="text"
+                placeholder="5"
+                className="InvestmentFormStyles"
+              />
+            </div>
+            <div>
+              <p>Investment period (years)</p>
+              <input
+                type="text"
+                placeholder="5"
+                className="InvestmentFormStyles"
+              />
+            </div>
+          </div>
+          <div>2</div>
+        </div>
+      </div>
     </React.Fragment>
   );
 };
