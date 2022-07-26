@@ -2,6 +2,7 @@
 
 import React from "react";
 import ArrowChevDown from "../../images/ArrChevDown.png";
+import InputDropDownImage from "../../images/InputDropDownImage.png";
 const MoneyAfricaSavingInvestmentPage = () => {
   return (
     <React.Fragment>
@@ -26,7 +27,7 @@ const MoneyAfricaSavingInvestmentPage = () => {
       <div className="MoneyAfricaSavingsCalculator">
         <div className="df justify-content-betw">
           <div>
-            <div>
+            <div className="MarginForAllTheInputField">
               <p className="InvestmentPeriodFormText">
                 Investment period (years)
               </p>
@@ -36,13 +37,46 @@ const MoneyAfricaSavingInvestmentPage = () => {
                 className="InvestmentFormStyles"
               />
             </div>
-            <div>
-              <p>Investment period (years)</p>
-              <input
-                type="text"
-                placeholder="5"
-                className="InvestmentFormStyles"
-              />
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">Currency</p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="£(pounds)"
+                  className="InvestmentFormStyles"
+                />
+                <div className="PositionDropdownImage">
+                  <img src={InputDropDownImage} />
+                </div>
+              </div>
+            </div>
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">
+                Interest rate per annum
+              </p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="5.00%"
+                  className="InvestmentFormStyles"
+                />
+                <div className="PositionDropdownImage">
+                  <img src={InputDropDownImage} />
+                </div>
+              </div>
+            </div>
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">Target Amount</p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="£122,248.10"
+                  className="InvestmentFormStyles"
+                />
+                <div className="PositionDropdownImage">
+                  <img src={InputDropDownImage} />
+                </div>
+              </div>
             </div>
           </div>
           <div>2</div>
