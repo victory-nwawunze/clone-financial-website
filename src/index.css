@@ -1814,21 +1814,50 @@ input:checked+.slider:before {
   color: #111111;
   font-style: normal;
 }
-.StyleMoreMoneyAfricaInvestmentText{
+
+.StyleMoreMoneyAfricaInvestmentText {
   padding-top: 15px;
   font-weight: 400;
   font-size: 18px;
   color: #111111;
   font-style: normal;
 }
-.MoneyAfricaSavingsCalculator{
-  margin-top: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
+
+.MoneyAfricaSavingsCalculator {
+  margin-top: 56px;
+    margin-right: 10px;
+    margin-left: 143px;
 }
-.InvestmentPeriodFormText{
+
+.InvestmentPeriodFormText {
   font-weight: 400;
   font-size: 18px;
   color: #111111;
-  
+}
+
+.InvestmentFormStyles {
+  width: 412px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 1px solid #51807E;
+  margin-top: 10px;
+  outline: none;
+  padding-top: 13px;
+}
+
+.InvestmentFormStyles::placeholder {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+  padding-bottom: 10px;
+}
+.MarginForAllTheInputField{
+  margin-bottom: 36px;
+}
+.PositionDropdownImage {
+    position: relative;
+    left: 390px;
+    top: -36px;
 }
