@@ -2146,3 +2146,46 @@ input:checked+.slider:before {
   font-size: 18px;
   color: #111111;
 }
+
+.StyleMoneyAfricaTalkToAnExpertForm {
+  margin-top: 45px;
+  margin-left: 396px;
+  margin-right: 381px;
+  border: 1px solid #E5E5E5;
+  border-radius: 8px;
+}
+
+.FNstyles {
+padding-top: 20px;
+    padding-bottom: 19px;
+    padding-left: 20px;
+    /* padding-right: 10px; */
+    font-weight: 400;
+    font-size: 14px;
+    color: #7C7C7C;
+}
+
+.FNUserInput {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 216px;
+  margin-left: 23px;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+}
+.PositionUserIcon{
+  position: relative;
+    top: -31px;
+    left: 15px;
+}
+.FNUserInputSecond{
+    border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 216px;
+  margin-left: 23px;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  margin-right: 15px;
+}
