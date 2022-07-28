@@ -14,6 +14,7 @@ import MoneyAfricaCareerPage from "./components/MoneyAfricaCareerPage/MoneyAfric
 import MoneyAfricaCareerPageForJobAvailabilty from "./components/MoneyAfricaCareerPageForJobAvailabilty/MoneyAfricaCareerPageForJobAvailabilty";
 import MoneyAfricaToolsPage from "./components/MoneyAfricaToolsPage/MoneyAfricaToolsPage";
 import MoneyAfricaSavingInvestmentPage from "./components/MoneyAfricaSavingInvestmentPage/MoneyAfricaSavingInvestmentPage";
+import MoneyAfricaInvestmentPage from "./components/MoneyAfricaInvestmentPage/MoneyAfricaInvestmentPage";
 
 function App() {
   return (
@@ -61,6 +62,10 @@ function App() {
         <Route
           path={"/moneyAfrica/MoneyAfricaSavingInvestmentPage"}
           element={<MoneyAfricaSavingInvestmentPage />}
+        />
+        <Route
+          path={"/moneyAfrica/MoneyAfricaInvestmentPage"}
+          element={<MoneyAfricaInvestmentPage />}
         />
       </Routes>
 
