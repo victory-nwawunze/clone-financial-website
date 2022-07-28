@@ -132,6 +132,80 @@ const MoneyAfricaRetirementPortfolioPage = () => {
                 />
               </div>
             </div>
+
+            <h4 className="COLTextstyles">Cost of Living</h4>
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">
+                Current cost of living - Monthly
+              </p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="€2,000"
+                  className="InvestmentFormStyles"
+                />
+                <p className="LittleTextFontStyles">
+                  How much you would need to spend monthly today in your desired
+                  <br />
+                  country of retirement
+                </p>
+              </div>
+            </div>
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">
+                Current cost of living - Annual
+              </p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="€24,000"
+                  className="InvestmentFormStyles"
+                />
+              </div>
+            </div>
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">Inflation</p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="1.5%"
+                  className="InvestmentFormStyles"
+                />
+                <div className="PositionDropdownImage">
+                  <img src={InputDropDownImage} />
+                </div>
+              </div>
+            </div>
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">
+                Cost of living at start of retirement - Annual
+              </p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="€37,514"
+                  className="InvestmentFormStyles"
+                />
+                <div className="PositionDropdownImage">
+                  <img src={InputDropDownImage} />
+                </div>
+              </div>
+            </div>
+            <div className="MarginForAllTheInputField">
+              <p className="InvestmentPeriodFormText">
+                Cost of living at start of retirement - Monthly
+              </p>
+              <div className="PositionInputWithArrowUpAndDown">
+                <input
+                  type="text"
+                  placeholder="€3,126"
+                  className="InvestmentFormStyles"
+                />
+                <div className="PositionDropdownImage">
+                  <img src={InputDropDownImage} />
+                </div>
+              </div>
+            </div>
           </div>
           <div>
             <div className="MoneyAfricaSavingInvestmentCardStyles">
