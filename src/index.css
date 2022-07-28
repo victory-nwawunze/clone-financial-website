@@ -1825,7 +1825,7 @@ input:checked+.slider:before {
 
 .MoneyAfricaSavingsCalculator {
   margin-top: 56px;
-  margin-right: 10px;
+  margin-right: 38px;
   margin-left: 143px;
 }
 
@@ -1884,18 +1884,140 @@ input:checked+.slider:before {
   padding-left: 46px;
   padding-right: 94px;
 }
-.MarginMoneyAfricaSavingTextTwo{
-    padding-top: 45px;
-    padding-left: 17px;
-    padding-right: 84px;
+
+.MarginMoneyAfricaSavingTextTwo {
+  padding-top: 45px;
+  padding-left: 17px;
+  padding-right: 84px;
 }
-.MarginMoneyAfricaSavingTextThree{
-padding-top: 45px;
-    padding-left: 10px;
-    padding-right: 54px;
+
+.MarginMoneyAfricaSavingTextThree {
+  padding-top: 45px;
+  padding-left: 10px;
+  padding-right: 54px;
 }
-.MoneyAfricaTotalAmountTextStyles{
-  padding-top: 47px;
-    padding-left: 48px;
-    padding-bottom: 44px;
+
+.MoneyAfricaTotalAmountTextStyles {
+  padding-top: 99px;
+  padding-left: 48px;
+  padding-bottom: 44px;
+}
+
+.MoneyAfricaTotalContributionStyles {
+  padding-top: 31px;
+  padding-left: 48px;
+  padding-bottom: 81px;
+}
+
+.PaddingTotalContributionTextStyles {
+  padding-right: 43px;
+  padding-top: 77px;
+}
+
+.PaddingForTotalIntrestRateStyles {
+  padding-right: 94px;
+  padding-top: 77px;
+}
+
+.InnerCardBackgroundColorAndTextStyles {
+  background-color: #ABEAD3;
+  padding-top: 18px;
+  padding-left: 16px;
+  padding-right: 19px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+}
+
+.TalkToAnExpert {
+  margin-top: 13px;
+}
+
+.TalkToAnExpertBtnStyles {
+  padding-top: 10px;
+  padding-left: 47px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  background-color: #015351;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+}
+
+.YouNeedToInvestTextStyles {
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+}
+
+.YouNeedToInvestTextAmountStyles {
+  padding-top: 10px;
+  font-weight: 500;
+  color: #111111;
+  font-size: 32px;
+}
+
+.YouNeedToInvestTextMonthStyles {
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+  padding-top: 10px;
+}
+
+.GetATotalTextStyles {
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+  font-style: none;
+}
+
+.GetATotalAmountTextStyles {
+  font-weight: 500;
+  color: #111111;
+  font-size: 50px;
+  padding-top: 5px;
+}
+
+.PaddingTotalContributionParagraphTextStyles {
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+  font-style: none;
+}
+
+.PaddingTotalContributionAmountTextStyles {
+  font-weight: 500;
+  font-size: 18px;
+  color: #111111;
+  padding-top: 10px;
+}
+
+.TextParagraphFontStyle {
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  padding-bottom: 20px;
+}
+
+.AmoutTextStyles {
+border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #015351;
+    padding-top: 15px;
+    width: 410px;
+    padding-bottom: 10px;
+    outline: none;
+}
+
+
+.AmoutTextStyles::placeholder {
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+}
+
+.PositionMonthAndArrowImage {
+     position: relative;
+    top: -35px;
+    left: 344px;
 }
