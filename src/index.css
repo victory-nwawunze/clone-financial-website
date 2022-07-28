@@ -1712,6 +1712,7 @@ input:checked+.slider:before {
   font-weight: 500;
   font-size: 32px;
   color: #111111;
+ 
 }
 
 .MoreInvestmentFontStylesForToolsPage {
@@ -1825,8 +1826,9 @@ input:checked+.slider:before {
 
 .MoneyAfricaSavingsCalculator {
   margin-top: 56px;
-  margin-right: 38px;
-  margin-left: 143px;
+    margin-right: 38px;
+    margin-left: 143px;
+    margin-bottom: 213px;
 }
 
 .InvestmentPeriodFormText {
@@ -1844,6 +1846,7 @@ input:checked+.slider:before {
   margin-top: 10px;
   outline: none;
   padding-top: 13px;
+  padding-bottom: 11px;
 }
 
 .InvestmentFormStyles::placeholder {
@@ -1999,14 +2002,14 @@ input:checked+.slider:before {
 }
 
 .AmoutTextStyles {
-border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 1px solid #015351;
-    padding-top: 15px;
-    width: 410px;
-    padding-bottom: 10px;
-    outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #015351;
+  padding-top: 15px;
+  width: 410px;
+  padding-bottom: 10px;
+  outline: none;
 }
 
 
@@ -2017,7 +2020,7 @@ border-top: none;
 }
 
 .PositionMonthAndArrowImage {
-     position: relative;
-    top: -35px;
-    left: 344px;
+  position: relative;
+  top: -35px;
+  left: 344px;
 }
