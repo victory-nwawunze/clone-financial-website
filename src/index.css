@@ -1712,7 +1712,7 @@ input:checked+.slider:before {
   font-weight: 500;
   font-size: 32px;
   color: #111111;
- 
+
 }
 
 .MoreInvestmentFontStylesForToolsPage {
@@ -1826,9 +1826,9 @@ input:checked+.slider:before {
 
 .MoneyAfricaSavingsCalculator {
   margin-top: 56px;
-    margin-right: 38px;
-    margin-left: 143px;
-    margin-bottom: 213px;
+  margin-right: 38px;
+  margin-left: 143px;
+  margin-bottom: 213px;
 }
 
 .InvestmentPeriodFormText {
@@ -2023,4 +2023,50 @@ input:checked+.slider:before {
   position: relative;
   top: -35px;
   left: 344px;
+}
+
+.MoneyAfricaEducationFundCardStyles {
+  background: #FFFFFF;
+  box-shadow: 0px 24px 32px rgba(0, 0, 0, 0.04), 0px 16px 24px rgba(0, 0, 0, 0.04), 0px 4px 8px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+  border-radius: 8px;
+}
+
+.FlexAndMarginTwoTextDIVStyles {
+  padding-top: 55px;
+  padding-left: 37px;
+  padding-right: 49px;
+}
+
+.PaddingInnerElements {
+  padding-left: 16px;
+  padding-right: 101px;
+  padding-top: 2px;
+}
+
+.PaddingSecondInnerElement {
+  padding-left: 16px;
+  padding-top: 2px;
+}
+
+.MarginTotalNumberOfAmoutOnTheCalc {
+  padding-left: 51px;
+  padding-top: 85px;
+}
+.MarginSemiCardStylesAndBGColor {
+    padding-top: 43px;
+    padding-left: 320px;
+    padding-bottom: 74px;
+}
+.MarginAllElementsInsideCard{
+ margin-right: 122px;
+}
+.StyleInnerHeadingText{
+  font-weight: 400;
+  font-size: 16px;
+  color: #111111;
+}
+.StyleInnerHeadingAmountText{
+  font-weight: 500;
+  color: #111111;
+  font-size: 32px;
 }
