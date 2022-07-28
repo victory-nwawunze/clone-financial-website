@@ -2051,7 +2051,7 @@ input:checked+.slider:before {
 .MarginTotalNumberOfAmoutOnTheCalc {
   padding-left: 51px;
   padding-top: 85px;
-      padding-bottom: 104px;
+  padding-bottom: 104px;
 }
 
 .MarginForSemiCard {
@@ -2105,21 +2105,44 @@ input:checked+.slider:before {
   background-color: #015351;
   border-radius: 8px;
 }
-.PaddingBottomBioDataText{
+
+.PaddingBottomBioDataText {
   padding-bottom: 15px;
   font-weight: 500;
   font-size: 20px;
   color: #111111;
 }
-.COLTextstyles{
+
+.COLTextstyles {
   padding-bottom: 15px;
   color: #111111;
   font-weight: 500;
   font-size: 20px;
 }
-.LittleTextFontStyles{
+
+.LittleTextFontStyles {
   padding-top: 6px;
   font-weight: 400;
   font-size: 14px;
+  color: #111111;
+}
+
+.MoneyAfricaTalkToAnExpertPageBannerStylesText {
+  text-align: center;
+  background-color: #E3EEE7;
+}
+
+.MoneyAfricaTalkToAnExpertPageBannerTextStyles {
+  padding-top: 64px;
+  padding-bottom: 8px;
+  font-weight: 500;
+  font-size: 50px;
+  color: #111111;
+}
+
+.MoreMoneyAfricaTalkToAnExpertPageBannerTextStyles {
+  padding-bottom: 41px;
+  font-weight: 400;
+  font-size: 18px;
   color: #111111;
 }
