@@ -2111,3 +2111,15 @@ input:checked+.slider:before {
   font-size: 20px;
   color: #111111;
 }
+.COLTextstyles{
+  padding-bottom: 15px;
+  color: #111111;
+  font-weight: 500;
+  font-size: 20px;
+}
+.LittleTextFontStyles{
+  padding-top: 6px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #111111;
+}
