@@ -2051,6 +2051,7 @@ input:checked+.slider:before {
 .MarginTotalNumberOfAmoutOnTheCalc {
   padding-left: 51px;
   padding-top: 85px;
+      padding-bottom: 104px;
 }
 
 .MarginForSemiCard {
