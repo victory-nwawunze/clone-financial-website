@@ -126,14 +126,20 @@ const MoneyAfricaEducationFundEstimate = () => {
                 </p>
                 <h4 className="StyleInnerHeadingAmountText">$104,655.09</h4>
               </div>
-              <div className="MarginSemiCardStylesAndBGColor">
-                <p>
-                  For further advice, click on the
-                  <br /> button below to speak to an
-                  <br />
-                  expert
-                </p>
-                <input type="button" value="Talk to an expert" />
+              <div className="MarginForSemiCard">
+                <div className="MarginSemiCardStylesAndBGColor">
+                  <p className="MarginSemiCardForTextStylesAndBGColor">
+                    For further advice, click on the
+                    <br /> button below to speak to an
+                    <br />
+                    expert
+                  </p>
+                  <input
+                    type="button"
+                    value="Talk to an expert"
+                    className="TalkToAnXpertBTNStyles"
+                  />
+                </div>
               </div>
             </div>
           </div>
