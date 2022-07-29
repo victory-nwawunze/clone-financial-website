@@ -18,6 +18,7 @@ import MoneyAfricaInvestmentPage from "./components/MoneyAfricaInvestmentPage/Mo
 import MoneyAfricaEducationFundEstimate from "./components/MoneyAfricaEducationFundEstimate/MoneyAfricaEducationFundEstimate";
 import MoneyAfricaRetirementPortfolioPage from "./components/MoneyAfricaRetirementPortfolioPage/MoneyAfricaRetirementPortfolioPage";
 import MoneyAfricaTalkToAnExpertPage from "./components/MoneyAfricaTalkToAnExpertPage/MoneyAfricaTalkToAnExpertPage";
+import MoneyAfricaAuthenticationPage from "./components/MoneyAfricaAuthenticationPage/MoneyAfricaAuthenticationPage";
 
 function App() {
   return (
@@ -81,6 +82,10 @@ function App() {
         <Route
           path={"/moneyAfrica/MoneyAfricaTalkToAnExpertPage"}
           element={<MoneyAfricaTalkToAnExpertPage />}
+        />
+        <Route
+          path={"/moneyAfrica/MoneyAfricaAuthenticationPage"}
+          element={<MoneyAfricaAuthenticationPage />}
         />
       </Routes>
 
