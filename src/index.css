@@ -2157,7 +2157,7 @@ input:checked+.slider:before {
 
 .FNstyles {
   padding-top: 20px;
-  padding-bottom: 19px;
+  padding-bottom: 25px;
   padding-left: 20px;
   /* padding-right: 10px; */
   font-weight: 400;
@@ -2201,4 +2201,36 @@ input:checked+.slider:before {
   outline: none;
   border-bottom: 1px solid #E5E5E5;
   margin-right: 15px;
+}
+
+.PositionQuestionMarkIconAndDownArrowIcon {
+  position: relative;
+  top: -31px;
+  padding-left: 10px;
+  padding-right: 7px;
+}
+
+.YourMessageTextField {
+  padding-top: 20px;
+  padding-left: 20px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #7C7C7C;
+}
+
+.PaddingBottomAndTopForthisImage {
+  padding-top: 5px;
+  padding-left: 17px;
+  padding-bottom: 93px;
+}
+.YMInputField{
+border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 532px;
+    margin-left: 23px;
+    outline: none;
+    border-bottom: 1px solid #E5E5E5;
+    margin-right: 15px;
+    margin-bottom: 73px;
 }
