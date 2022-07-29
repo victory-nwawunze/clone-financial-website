@@ -25,14 +25,24 @@ const MoneyAfricaTalkToAnExpertPage = () => {
                   <img src={UserIcon} />
                 </div>
               </div>
+              {/* <p className="FNstyles">First name</p> */}
             </div>
             <div>
-              <p className="FNstyles">First name</p>
+              <p className="FNstyles">Last name</p>
               <div className="PaddingUserIconAndTextStyles">
                 <input type="text" className="FNUserInputSecond" />
                 <div className="PositionUserIcon">
                   <img src={UserIcon} />
                 </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <p className="FNstyles">Email address</p>
+            <div className="PaddingUserIconAndTextStyles">
+              <input type="text" className="FNUserInputThird" />
+              <div className="PositionUserIcon">
+                <img src={UserIcon} />
               </div>
             </div>
           </div>

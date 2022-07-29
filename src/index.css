@@ -2156,13 +2156,13 @@ input:checked+.slider:before {
 }
 
 .FNstyles {
-padding-top: 20px;
-    padding-bottom: 19px;
-    padding-left: 20px;
-    /* padding-right: 10px; */
-    font-weight: 400;
-    font-size: 14px;
-    color: #7C7C7C;
+  padding-top: 20px;
+  padding-bottom: 19px;
+  padding-left: 20px;
+  /* padding-right: 10px; */
+  font-weight: 400;
+  font-size: 14px;
+  color: #7C7C7C;
 }
 
 .FNUserInput {
@@ -2174,16 +2174,29 @@ padding-top: 20px;
   outline: none;
   border-bottom: 1px solid #E5E5E5;
 }
-.PositionUserIcon{
+
+.PositionUserIcon {
   position: relative;
-    top: -31px;
-    left: 15px;
+  top: -31px;
+  left: 15px;
 }
-.FNUserInputSecond{
-    border-top: none;
+
+.FNUserInputSecond {
+  border-top: none;
   border-left: none;
   border-right: none;
   width: 216px;
+  margin-left: 23px;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  margin-right: 15px;
+}
+
+.FNUserInputThird {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 532px;
   margin-left: 23px;
   outline: none;
   border-bottom: 1px solid #E5E5E5;
