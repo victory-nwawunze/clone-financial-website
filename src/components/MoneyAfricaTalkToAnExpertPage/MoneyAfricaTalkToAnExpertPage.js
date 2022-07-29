@@ -78,6 +78,7 @@ const MoneyAfricaTalkToAnExpertPage = () => {
             <img src={MessagesIcon} />
           </div>
           <input type="text" className="YMInputField" />
+          <input type="button" value="Submit form" className="StyleSFButton" />
         </div>
       </div>
     </React.Fragment>

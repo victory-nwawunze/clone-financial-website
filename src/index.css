@@ -2223,14 +2223,29 @@ input:checked+.slider:before {
   padding-left: 17px;
   padding-bottom: 93px;
 }
-.YMInputField{
-border-top: none;
-    border-left: none;
-    border-right: none;
-    width: 532px;
-    margin-left: 23px;
-    outline: none;
-    border-bottom: 1px solid #E5E5E5;
-    margin-right: 15px;
-    margin-bottom: 73px;
+
+.YMInputField {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 532px;
+  margin-left: 23px;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  margin-right: 15px;
+  margin-bottom: 73px;
+}
+
+.StyleSFButton {
+  position: relative;
+  top: -28px;
+  border-radius: 8px;
+  right: -435px;
+  padding-top: 10px;
+  padding-left: 33px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  background-color: #015351;
+  border: none;
+  color: white;
 }
