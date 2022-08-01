@@ -2250,3 +2250,25 @@ input:checked+.slider:before {
   color: white;
 }
 
+.MoneyAfricaAuthenticationPageBackgroundColor {
+  position: relative;
+  background-color: #5FC8DE;
+  padding-top: 13px;
+  padding-right: 11px;
+  padding-left: 108px;
+}
+
+.MoneyAfricaBlackLogoStyles {
+  margin-left: 216px;
+  margin-top: 26px;
+  margin-bottom: 16px;
+}
+
+.MoneyAfricaAuthDescriptionText {
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  color: #111111;
+  font-style: none;
+  padding-bottom: 36px;
+}
