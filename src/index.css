@@ -2441,3 +2441,24 @@ input:checked+.slider:before {
   border-bottom: 1px solid #E5E5E5;
   color: #B3AFAF;
 }
+
+.MoneyAfricaVerificationButtonStyles {
+  margin-top: 31px;
+}
+
+.MarginForSendCode {
+  margin-left: 95px;
+}
+
+.CompleteSignUpBTN {
+  margin-left: 175px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 22px;
+  padding-right: 20px;
+  background-color: #C03E21;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

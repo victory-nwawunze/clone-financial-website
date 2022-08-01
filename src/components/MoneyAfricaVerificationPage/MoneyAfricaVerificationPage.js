@@ -22,19 +22,35 @@ const MoneyAfricaVerificationPage = () => {
               <input type="text" placeholder="5" className="box-1" />
             </div>
             <div>
-              <input type="text" placeholder="5" className="box-2" />
+              <input type="text" placeholder="1" className="box-2" />
             </div>
             <div>
-              <input type="text" placeholder="5" className="box-3" />
+              <input type="text" placeholder="3" className="box-3" />
             </div>
             <div>
-              <input type="text" placeholder="5" className="box-4" />
+              <input type="text" placeholder="8" className="box-4" />
             </div>
             <div>
-              <input type="text" placeholder="5" className="box-5" />
+              <input type="text" placeholder="8" className="box-5" />
             </div>
             <div>
-              <input type="text" placeholder="5" className="box-6" />
+              <input type="text" placeholder="8" className="box-6" />
+            </div>
+          </div>
+        </div>
+        <div className="MoneyAfricaVerificationButtonStyles">
+          <div className="df align-items-centr">
+            <div>
+              <p className="MarginForSendCode">
+                Didn’t receive code?<span> Resend</span>
+              </p>
+            </div>
+            <div>
+              <input
+                type="button"
+                value="Complete Sign Up"
+                className="CompleteSignUpBTN"
+              />
             </div>
           </div>
         </div>
