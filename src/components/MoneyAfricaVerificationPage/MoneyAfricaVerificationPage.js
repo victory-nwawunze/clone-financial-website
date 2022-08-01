@@ -42,7 +42,8 @@ const MoneyAfricaVerificationPage = () => {
           <div className="df align-items-centr">
             <div>
               <p className="MarginForSendCode">
-                Didn’t receive code?<span> Resend</span>
+                Didn’t receive code?
+                <span className="ResendTextStyles"> Resend</span>
               </p>
             </div>
             <div>

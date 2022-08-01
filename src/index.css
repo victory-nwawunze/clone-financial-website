@@ -2443,11 +2443,15 @@ input:checked+.slider:before {
 }
 
 .MoneyAfricaVerificationButtonStyles {
-  margin-top: 31px;
+  margin-top: 41px;
 }
 
 .MarginForSendCode {
   margin-left: 95px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #7C7C7C;
+  cursor: pointer;
 }
 
 .CompleteSignUpBTN {
@@ -2461,4 +2465,8 @@ input:checked+.slider:before {
   border: none;
   border-radius: 8px;
   cursor: pointer;
+}
+.ResendTextStyles{
+  color: #015351;
+  border-bottom: 1px solid #015351;
 }
