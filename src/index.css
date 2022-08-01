@@ -2329,10 +2329,115 @@ input:checked+.slider:before {
   padding-top: 117px;
   padding-left: 248px;
 }
-.EmailVerificationHeadingText{
+
+.EmailVerificationHeadingText {
   text-align: center;
   font-weight: 500;
   font-size: 32px;
-  color:#111111;
+  color: #111111;
   font-style: normal;
+  padding-top: 5px;
+}
+
+.EmailVerificationDesText {
+  text-align: center;
+  padding-top: 5px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #637170;
+}
+
+.MoneyAficaBoxesInput {
+  padding-top: 23px;
+  padding-left: 96px;
+}
+
+.box-1 {
+  width: 24px;
+  height: 23px;
+  text-align: center;
+  margin-right: 47px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  color: #B3AFAF;
+}
+
+.box-2 {
+  width: 24px;
+  height: 23px;
+  text-align: center;
+  margin-right: 47px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  color: #B3AFAF;
+}
+
+.box-3 {
+  width: 24px;
+  height: 23px;
+  text-align: center;
+  margin-right: 47px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  color: #B3AFAF;
+}
+
+.box-4 {
+  width: 24px;
+  height: 23px;
+  text-align: center;
+  margin-right: 47px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  color: #B3AFAF;
+}
+
+.box-5 {
+  width: 24px;
+  height: 23px;
+  text-align: center;
+  margin-right: 47px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  color: #B3AFAF;
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.box-6 {
+  width: 24px;
+  height: 23px;
+  text-align: center;
+  margin-right: 47px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+  color: #B3AFAF;
 }
