@@ -3,6 +3,7 @@
 import React from "react";
 import AuthGirlImage from "../../images/AuthImage.png";
 import MoneyAfricaBlackLogo from "../../images/MoneyAfricaBlackLogo.png";
+import UserIcon from "../../images/UserIcon.png";
 const MoneyAfricaAuthenticationPage = () => {
   return (
     <React.Fragment>
@@ -24,7 +25,35 @@ const MoneyAfricaAuthenticationPage = () => {
                 <img src={AuthGirlImage} />
               </div>
             </div>
-            <div>2</div>
+            <div>
+              <div className="AuthFormCardBackground">
+                <h4 className="AlignFormText">Get started</h4>
+                <p className="AlignFormDescriptionText">
+                  Start building your financial knowledge bank with our
+                  <br /> over 45+ ready-made courses.
+                </p>
+                <div className="AuthFormInputPadding">
+                  <div className="df">
+                    <div>
+                      <p>First name</p>
+                      <div className="positionUserIconImage">
+                        <img src={UserIcon} />
+                      </div>
+                      <input type="text" className="FirstNameTextInput" />
+                    </div>
+                    <div>
+                      <div className="MarginAuthForm">
+                        <p>First name</p>
+                        <div className="positionUserIconImage">
+                          <img src={UserIcon} />
+                        </div>
+                        <input type="text" className="FirstNameTextInput" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

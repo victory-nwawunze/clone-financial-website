@@ -2272,3 +2272,67 @@ input:checked+.slider:before {
   font-style: none;
   padding-bottom: 36px;
 }
+
+.AlignFormText {
+  text-align: center;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+  padding-top: 26px;
+}
+
+.AuthFormCardBackground {
+  background-color: white;
+}
+
+.AlignFormDescriptionText {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 113px;
+  padding-right: 56px;
+  color: #637170;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+}
+
+.AuthFormInputPadding {
+  padding-top: 15px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 24px;
+}
+
+.FirstNameTextInput {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: 1px solid #E5E5E5;
+
+}
+
+.positionUserIconImage {
+  padding-top: 10px;
+}
+
+.MarginAuthForm {
+  padding-left: 44px;
+}
+
+.MoneyAfricaVerificationPageDiv {
+  margin: auto;
+  width: 50%;
+}
+
+.MarginVerificationLogoImage {
+  padding-top: 117px;
+  padding-left: 248px;
+}
+.EmailVerificationHeadingText{
+  text-align: center;
+  font-weight: 500;
+  font-size: 32px;
+  color:#111111;
+  font-style: normal;
+}
