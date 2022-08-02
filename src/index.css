@@ -2492,18 +2492,46 @@ input:checked+.slider:before {
   padding-top: 48px;
 }
 
-.MoneyAfricaLoginPageWelcomeText{
+.MoneyAfricaLoginPageWelcomeText {
   text-align: center;
   font-weight: 500;
   font-size: 32px;
   color: #111111;
   font-style: normal;
 }
-.MoreMoneyAfricaLoginPageWelcomeText{
+
+.MoreMoneyAfricaLoginPageWelcomeText {
   text-align: center;
   padding-top: 10px;
   font-size: 16px;
   font-weight: 400;
   color: #637170;
   font-style: normal;
+}
+
+.MoneyAfricaGreenLogo {
+  padding-top: 70px;
+  padding-left: 534px;
+}
+.MarginForTextLine{
+  margin: auto;
+  width: 40%;
+  padding-top: 40px;
+}
+.PositionEmailIcon {
+    padding-top: 13px;
+}
+.EmailAdressTextStyles{
+  font-weight: 400;
+  font-size: 14px;
+  color: #7C7C7C;
+  padding-top: 32px;
+}
+.MoneyAfricaEmailInputField{
+  width: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #E5E5E5;
+outline: none;
 }
