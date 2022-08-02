@@ -2466,25 +2466,70 @@ input:checked+.slider:before {
   border-radius: 8px;
   cursor: pointer;
 }
-.ResendTextStyles{
+
+.ResendTextStyles {
   color: #015351;
   border-bottom: 1px solid #015351;
 }
-.ChoosePlanHeadingText{
+
+.ChoosePlanHeadingText {
   text-align: center;
-  padding-top: 10px;
   font-weight: 500;
   font-size: 32px;
   color: #111111;
   font-style: normal;
 }
-.ChoosePlanDecText{
+
+.ChoosePlanDecText {
   text-align: center;
   color: #637170;
   font-weight: 400;
   font-size: 16px;
 }
-.MarginMoneyAfricaGreenLogo{
-     padding-left: 43%;
-    padding-top: 48px;
+
+.MarginMoneyAfricaGreenLogo {
+  padding-left: 43%;
+  padding-top: 48px;
+}
+
+.PaddingTopWalletTextStyles {
+  padding-top: 5px;
+  padding-left: 23px;
+  font-weight: 500;
+  font-size: 20px;
+  color: #111111;
+}
+
+.SubscribePageCardOne {
+  background-color: #F3F4F5;
+}
+
+.MarginCardPricing {
+  padding-top: 22px;
+  padding-bottom: 22px;
+  padding-left: 23px;
+  padding-right: 55px;
+}
+
+.StyleMarginCardSubStyles {
+  font-weight: 400;
+  font-size: 14px;
+  color: #111111;
+  font-style: normal;
+}
+
+.PaddingSubscribeCardText {
+  font-weight: 400;
+  font-size: 14px;
+  color: #111111;
+  font-style: normal;
+  padding-left: 10px;
+  padding-top: 25px;
+}
+
+.PaddingTopMarkedIcon {
+  padding-top: 20px;
+}
+.PaddingTopMarkedIconTwo{
+  padding-top: 31px;
 }
