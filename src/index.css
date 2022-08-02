@@ -2492,112 +2492,18 @@ input:checked+.slider:before {
   padding-top: 48px;
 }
 
-/* .PaddingTopWalletTextStyles {
-  padding-top: 5px;
-  padding-left: 23px;
+.MoneyAfricaLoginPageWelcomeText{
+  text-align: center;
   font-weight: 500;
-  font-size: 20px;
-  color: #111111;
-}
-
-.SubscribePageCardOne {
-  background-color: #F3F4F5;
-}
-
-.MarginCardPricing {
-  padding-top: 22px;
-  padding-bottom: 22px;
-  padding-left: 23px;
-  padding-right: 55px;
-}
-
-.StyleMarginCardSubStyles {
-  font-weight: 400;
-  font-size: 14px;
+  font-size: 32px;
   color: #111111;
   font-style: normal;
 }
-
-.PaddingSubscribeCardText {
-  font-weight: 400;
-  font-size: 14px;
-  color: #111111;
-  font-style: normal;
-  padding-left: 10px;
-  padding-top: 25px;
-}
-
-.PaddingTopMarkedIcon {
-  padding-top: 20px;
-}
-
-.PaddingTopMarkedIconTwo {
-  padding-top: 31px;
-}
-
-.PaddingTextCenterForRtext {
-  background-color: #E3EEE7;
+.MoreMoneyAfricaLoginPageWelcomeText{
+  text-align: center;
   padding-top: 10px;
-  padding-left: 120px;
-  padding-right: 130px;
-  padding-bottom: 10px;
-  border-top-right-radius: 6px;
-  border-top-left-radius: 6px;
-}
-
-.SubscribePlanBTN {
-  margin-top: 26px;
-  padding-top: 10px;
-  padding-right: 85px;
-  padding-left: 76px;
-  padding-bottom: 10px;
-  background-color: #C03E21;
-  cursor: pointer;
-  color: white;
-  border: none;
-  border-radius: 8px;
-}
-
-.MarginTopSecondMarkedCircleAndTextStyles {
-  padding-top: 18px;
-}
-
-.PaddingTopForSecondMarkedIcon {
-  padding-top: 10px;
-}
-
-.PaddingTopAndStylesForText {
-  padding-top: 2px;
-  padding-left: 11px;
-  color: white;
-}
-
-.PaddingTextForInnerTextBackgroundColor {
-  background-color: #015351;
-  padding-top: 19px;
-  padding-bottom: 22px;
-  padding-left: 22px;
-  padding-right: 10px;
-}
-
-.MarginSubscribeCardPageStyle {
-  margin-top: 52px;
-  margin-left: 52px;
-}
-
-.IllustrationChartTextDes {
-  padding-top: 10px;
-  padding-left: 20px;
-  padding-right: 10px;
-  padding-bottom: 10px;
-  color: white;
-  font-weight: 400;
-  font-size: 20px;
-}
-
-.MoreIllustrationChartTextDes {
-  font-weight: 400;
   font-size: 16px;
-  color: #fff;
+  font-weight: 400;
+  color: #637170;
   font-style: normal;
-} */
+}
