@@ -4,6 +4,7 @@ import React from "react";
 import MoneyAfricaGreenLogo from "../../images/MoneyAfricaLogoGreen.png";
 import SubScribePageCardPriceOne from "../../images/SubScribePageCardPriceOne.png";
 import SmallCirlceMarkedIcon from "../../images/SmallCirlceMarkedIcon.png";
+import IllustrationChartImage from "../../images/IllustrationChartImage.png";
 const MoneyAfricaSubscribePage = () => {
   return (
     <React.Fragment>
@@ -62,7 +63,11 @@ const MoneyAfricaSubscribePage = () => {
               </div>
             </div>
           </div>
-          <div>2</div>
+          <div>
+            <div className="PaddingTextCenterForRtext">
+              <p>Recommended</p>
+            </div>
+          </div>
           <div>3</div>
         </div>
       </div>
