@@ -2470,3 +2470,21 @@ input:checked+.slider:before {
   color: #015351;
   border-bottom: 1px solid #015351;
 }
+.ChoosePlanHeadingText{
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+  font-style: normal;
+}
+.ChoosePlanDecText{
+  text-align: center;
+  color: #637170;
+  font-weight: 400;
+  font-size: 16px;
+}
+.MarginMoneyAfricaGreenLogo{
+     padding-left: 43%;
+    padding-top: 48px;
+}
