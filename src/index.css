@@ -2513,25 +2513,63 @@ input:checked+.slider:before {
   padding-top: 70px;
   padding-left: 534px;
 }
-.MarginForTextLine{
+
+.MarginForTextLine {
   margin: auto;
   width: 40%;
   padding-top: 40px;
 }
+
 .PositionEmailIcon {
-    padding-top: 13px;
+  padding-top: 13px;
 }
-.EmailAdressTextStyles{
+
+.EmailAdressTextStyles {
   font-weight: 400;
   font-size: 14px;
   color: #7C7C7C;
   padding-top: 32px;
 }
-.MoneyAfricaEmailInputField{
+
+.SignUpBTN {
+  border: none;
+  color: white;
+  background-color: #C03E21;
+  border-radius: 8px;
+  padding-top: 8px;
+  padding-bottom: 7px;
+  padding-left: 37px;
+  padding-right: 39px;
+}
+
+.MarginSingUpBTNAndLoginBTN {
+  margin-top: 10px;
+}
+
+.InnerSignUpTextStyles {
+  color: #015351;
+  border-bottom: 1px solid #015351;
+  cursor: pointer;
+}
+
+.SignUpTextStyles {
+  font-size: 14px;
+  font-weight: 400;
+  color: #637170;
+}
+
+.RPTextStyles {
+  font-weight: 400;
+  font-size: 16px;
+  color: #015351;
+  padding-top: 29px;
+}
+
+.MoneyAfricaEmailInputField {
   width: 100%;
   border-top: none;
   border-left: none;
   border-right: none;
   border-bottom: 1px solid #E5E5E5;
-outline: none;
+  outline: none;
 }
