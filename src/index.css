@@ -2669,5 +2669,33 @@ input.EmailTextInputTextStyle {
 
 .MoneyAfricaGreenLogoMargin {
   padding-left: 539px;
-  padding-top: 94px;
 }
+
+.MoneyAfricaResetPasswordPageStyles {
+  margin-top: 122px;
+}
+
+.CenterMarginMoneyAfricaResetPasswordPageStyles {
+  margin: auto;
+  width: 40%;
+  margin-top: 22px;
+}
+input.StyleResetPasswordInput {
+    width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid #E5E5E5;
+    outline: none;
+    margin-bottom: 13px;
+}
+.PaddingForAllInputForResetPage {
+    padding-top: 15px;
+}
+.MoneyAfricaRPtextStyles {
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #7C7C7C;
+}
+
