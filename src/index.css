@@ -2573,3 +2573,25 @@ input:checked+.slider:before {
   border-bottom: 1px solid #E5E5E5;
   outline: none;
 }
+
+.FPTextStyles {
+  text-align: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+}
+
+.MoreFPTextStyles {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #637170
+}
+
+.MarginMoneyAfricaGreenLogoImage {
+  padding-top: 83px;
+  padding-left: 537px;
+  padding-bottom: 10px;
+}
