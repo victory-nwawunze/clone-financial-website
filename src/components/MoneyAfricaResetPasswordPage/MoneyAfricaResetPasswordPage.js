@@ -4,6 +4,7 @@ import React from "react";
 import MoneyAfricaGreenLogo from "../../images/MoneyAfricaGreenLogoImage.png";
 import LockIcon from "../../images/LockIcon.png";
 import HidePassword from "../../images/HidePassword.png";
+import SmallWhiteArrIcon from "../../images/SmallWhiteArrIcon.png";
 const MoneyAfricaResetPasswordPage = () => {
   return (
     <React.Fragment>
@@ -43,6 +44,9 @@ const MoneyAfricaResetPasswordPage = () => {
               </div>
             </div>
             <input type="text" className="StyleResetPasswordInput" />
+            <button className="RPBTNStyles">
+              Reset password <img src={SmallWhiteArrIcon} />
+            </button>
           </div>
         </div>
       </div>
