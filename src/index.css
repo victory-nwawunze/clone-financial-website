@@ -2769,7 +2769,8 @@ input.StyleResetPasswordInput {
   border-bottom: 1px solid #E3EEE7;
   outline: none;
 }
-.WitdthThisTextInput::placeholder{
+
+.WitdthThisTextInput::placeholder {
   position: relative;
   top: -4px;
   left: 25px;
@@ -2794,10 +2795,12 @@ input.StyleResetPasswordInput {
   padding-bottom: 25px;
   border-radius: 8px;
 }
-.RememberLoginAndPasswordBTNStyles{
+
+.RememberLoginAndPasswordBTNStyles {
   padding-top: 40px;
 }
-.RPBBTNStyles{
+
+.RPBBTNStyles {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-right: 10px;
@@ -2808,6 +2811,24 @@ input.StyleResetPasswordInput {
   font-size: 14px;
   color: #637170;
 }
-.BorderBottomForLogin{
+
+.BorderBottomForLogin {
   border-bottom: 1px solid #015351;
+}
+
+.SendResenLinkBTNStyles {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 31px;
+  display: flex;
+  align-items: center;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  background-color: #C03E21;
+  cursor: pointer;
+}
+.SendResenLinkBTNStyles > img{
+  padding-left: 10px;
 }
