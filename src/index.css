@@ -2722,3 +2722,31 @@ input.StyleResetPasswordInput {
 .RPBTNStyles>img {
   padding-left: 10px;
 }
+
+.FPMoneyAfricaResetPasswordEmailSent {
+  text-align: center;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+}
+
+.MoreFPMoneyAfricaResetPasswordEmailSent {
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: #637170;
+  padding-top: 18px;
+  padding-bottom: 36px;
+}
+
+.NotificationFPMoneyAfricaResetPasswordEmailSent {
+  text-align: center;
+  background-color: #ABEAD3;
+  width: 50%;
+  margin: auto;
+  font-weight: 400;
+  font-size: 16px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-radius: 8px;
+}
