@@ -3,6 +3,7 @@
 import React from "react";
 import MoneyAfricaGreenLogo from "../../images/MoneyAfricaGreenLogoImage.png";
 import EmailIcon from "../../images/EmailIcon.png";
+import WhiteArrowBtn from "../../images/WhiteArrowBtn.png";
 const MoneyAfricaResetPasswordEmailSent = () => {
   return (
     <React.Fragment>
@@ -33,14 +34,19 @@ const MoneyAfricaResetPasswordEmailSent = () => {
             />
           </div>
           <div className="RememberLoginAndPasswordBTNStyles">
-            <div className="df justify-content-betw">
+            <div className="df justify-content-betw align-items-centr">
               <div>
                 <button className="RPBBTNStyles">
                   Remember Password?
                   <span className="BorderBottomForLogin"> Log In</span>
                 </button>
               </div>
-              <div>2</div>
+              <div>
+                <button className="SendResenLinkBTNStyles">
+                  Send resent link
+                  <img src={WhiteArrowBtn} />
+                </button>
+              </div>
             </div>
           </div>
         </div>
