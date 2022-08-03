@@ -2590,6 +2590,29 @@ input:checked+.slider:before {
   color: #637170
 }
 
+.MoneyAfricaResetPageInputStyles {
+  margin: auto;
+  margin-top: 28px;
+  width: 40%;
+}
+.PositionEmailTextStyles {
+    padding-top: 10px;
+}
+input.EmailTextInputTextStyle {
+    width: 100%;
+    border-top: none;
+    outline: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #E5E5E5;
+}
+.ETextInputTextStyles {
+  font-weight: 400;
+  font-size: 16px;
+  padding-bottom: 3px;
+  color: #7C7C7C;
+}
+
 .MarginMoneyAfricaGreenLogoImage {
   padding-top: 83px;
   padding-left: 537px;
