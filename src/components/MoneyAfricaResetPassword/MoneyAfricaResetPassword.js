@@ -21,7 +21,7 @@ const MoneyAfricaResetPassword = () => {
         </div>
         <input type="text" className="EmailTextInputTextStyle" />
         <div className="MoneyAfricaResetBTNLinkStyles">
-          <div className="df justify-content-betw">
+          <div className="df justify-content-betw align-items-centr">
             <div>
               <p className="RememberLoginTextStyles">
                 Remember Password?
