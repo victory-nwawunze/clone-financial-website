@@ -32,6 +32,17 @@ const MoneyAfricaResetPasswordEmailSent = () => {
               placeholder="hassan.musa@moneyafrica.ng"
             />
           </div>
+          <div className="RememberLoginAndPasswordBTNStyles">
+            <div className="df justify-content-betw">
+              <div>
+                <button className="RPBBTNStyles">
+                  Remember Password?
+                  <span className="BorderBottomForLogin"> Log In</span>
+                </button>
+              </div>
+              <div>2</div>
+            </div>
+          </div>
         </div>
       </div>
     </React.Fragment>
