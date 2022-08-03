@@ -2,6 +2,7 @@
 
 import React from "react";
 import MoneyAfricaGreenLogo from "../../images/MoneyAfricaGreenLogoImage.png";
+import EmailIcon from "../../images/EmailIcon.png";
 const MoneyAfricaResetPasswordEmailSent = () => {
   return (
     <React.Fragment>
@@ -19,6 +20,19 @@ const MoneyAfricaResetPasswordEmailSent = () => {
           An email with password reset instructions has been
           <br /> sent to your email address.
         </p>
+        <div className="MarginTopMoneyAfricaResetPasswordEmailSentInputPage">
+          <p className="EmailAddressFontStyles">Email Address</p>
+          <div className="PositionEmailIconWithInputFieldForEmail">
+            <div className="PositionThisEmailIcon">
+              <img src={EmailIcon} />
+            </div>
+            <input
+              type="text"
+              className="WitdthThisTextInput"
+              placeholder="hassan.musa@moneyafrica.ng"
+            />
+          </div>
+        </div>
       </div>
     </React.Fragment>
   );
