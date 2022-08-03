@@ -2739,14 +2739,75 @@ input.StyleResetPasswordInput {
   padding-bottom: 36px;
 }
 
+.MarginMoneyAfricaResetLogoImage {
+  margin-top: 56px;
+  padding-left: 532px;
+  padding-bottom: 12px;
+}
+
+.MarginTopMoneyAfricaResetPasswordEmailSentInputPage {
+  margin: auto;
+  width: 40%;
+}
+
+.PositionEmailIconWithInputFieldForEmail {
+  position: relative;
+}
+
+.PositionThisEmailIcon {
+  position: absolute;
+  left: -5px;
+  top: -8px;
+}
+
+.WitdthThisTextInput {
+  padding-bottom: 4px;
+  width: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #E3EEE7;
+  outline: none;
+}
+.WitdthThisTextInput::placeholder{
+  position: relative;
+  top: -4px;
+  left: 25px;
+}
+
+.EmailAddressFontStyles {
+  padding-top: 22px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #7C7C7C;
+  padding-bottom: 18px;
+}
+
 .NotificationFPMoneyAfricaResetPasswordEmailSent {
   text-align: center;
   background-color: #ABEAD3;
-  width: 50%;
+  width: 40%;
   margin: auto;
   font-weight: 400;
   font-size: 16px;
   padding-top: 25px;
   padding-bottom: 25px;
   border-radius: 8px;
+}
+.RememberLoginAndPasswordBTNStyles{
+  padding-top: 40px;
+}
+.RPBBTNStyles{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 14px;
+  color: #637170;
+}
+.BorderBottomForLogin{
+  border-bottom: 1px solid #015351;
 }
