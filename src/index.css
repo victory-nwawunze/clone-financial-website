@@ -2627,12 +2627,17 @@ input.EmailTextInputTextStyle {
 }
 
 .SendResentLinkBTN {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  cursor: pointer;
-  border: none;
+  padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    background-color: #C03E21;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
 }
 .LogInTextStyles{
   border-bottom: 1px solid #015351;
