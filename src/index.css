@@ -2628,18 +2628,19 @@ input.EmailTextInputTextStyle {
 
 .SendResentLinkBTN {
   padding-top: 7px;
-    padding-bottom: 7px;
-    padding-left: 10px;
-    padding-right: 10px;
-    cursor: pointer;
-    border-radius: 8px;
-    border: none;
-    background-color: #C03E21;
-    color: white;
-    font-weight: 700;
-    font-size: 16px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+  background-color: #C03E21;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
 }
-.LogInTextStyles{
+
+.LogInTextStyles {
   border-bottom: 1px solid #015351;
   cursor: pointer;
 }
@@ -2649,4 +2650,24 @@ input.EmailTextInputTextStyle {
   font-size: 14px;
   color: #637170;
   font-style: normal;
+}
+
+.ResetPasswordTextStyles {
+  text-align: center;
+  font-weight: 500;
+  font-size: 32px;
+  color: #111111;
+}
+
+.MoreResetPasswordTextStyles {
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: #637170;
+  padding-top: 10px;
+}
+
+.MoneyAfricaGreenLogoMargin {
+  padding-left: 539px;
+  padding-top: 94px;
 }
