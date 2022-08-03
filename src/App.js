@@ -22,6 +22,7 @@ import MoneyAfricaAuthenticationPage from "./components/MoneyAfricaAuthenticatio
 import MoneyAfricaVerificationPage from "./components/MoneyAfricaVerificationPage/MoneyAfricaVerificationPage";
 import MoneyAfricaSubscribePage from "./components/MoneyAfricaSubscribePage/MoneyAfricaSubscribePage";
 import MoneyAfricaLoginPage from "./components/MoneyAfricaLoginPage/MoneyAfricaLoginPage";
+import MoneyAfricaResetPassword from "./components/MoneyAfricaResetPassword/MoneyAfricaResetPassword";
 
 function App() {
   return (
@@ -97,6 +98,10 @@ function App() {
         <Route
           path={"/moneyAfrica/MoneyAfricaLoginPage"}
           element={<MoneyAfricaLoginPage />}
+        />
+        <Route
+          path={"/moneyAfrica/MoneyAfricaResetPassword"}
+          element={<MoneyAfricaResetPassword />}
         />
         {/* <Route
           path={"/moneyAfrica/MoneyAfricaAuthenticationPage"}
