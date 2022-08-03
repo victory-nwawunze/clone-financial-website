@@ -20,6 +20,23 @@ const MoneyAfricaResetPassword = () => {
           <img src={EmailIcon} />
         </div>
         <input type="text" className="EmailTextInputTextStyle" />
+        <div className="MoneyAfricaResetBTNLinkStyles">
+          <div className="df justify-content-betw">
+            <div>
+              <p className="RememberLoginTextStyles">
+                Remember Password?
+                <span className="LogInTextStyles"> Log In</span>
+              </p>
+            </div>
+            <div>
+              <input
+                type="button"
+                value="Send resent link"
+                className="SendResentLinkBTN"
+              />
+            </div>
+          </div>
+        </div>
       </div>
     </React.Fragment>
   );

@@ -2595,17 +2595,20 @@ input:checked+.slider:before {
   margin-top: 28px;
   width: 40%;
 }
+
 .PositionEmailTextStyles {
-    padding-top: 10px;
+  padding-top: 10px;
 }
+
 input.EmailTextInputTextStyle {
-    width: 100%;
-    border-top: none;
-    outline: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 1px solid #E5E5E5;
+  width: 100%;
+  border-top: none;
+  outline: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #E5E5E5;
 }
+
 .ETextInputTextStyles {
   font-weight: 400;
   font-size: 16px;
@@ -2617,4 +2620,28 @@ input.EmailTextInputTextStyle {
   padding-top: 83px;
   padding-left: 537px;
   padding-bottom: 10px;
+}
+
+.MoneyAfricaResetBTNLinkStyles {
+  padding-top: 27px;
+}
+
+.SendResentLinkBTN {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  border: none;
+}
+.LogInTextStyles{
+  border-bottom: 1px solid #015351;
+  cursor: pointer;
+}
+
+.RememberLoginTextStyles {
+  font-weight: 700;
+  font-size: 14px;
+  color: #637170;
+  font-style: normal;
 }
