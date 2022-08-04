@@ -2829,41 +2829,91 @@ input.StyleResetPasswordInput {
   background-color: #C03E21;
   cursor: pointer;
 }
-.SendResenLinkBTNStyles > img{
+
+.SendResenLinkBTNStyles>img {
   padding-left: 10px;
 }
-.MoneyAfricaStandAloneBreadCrum{
- padding-left: 49px;
-    padding-right: 49px;
-    padding-top: 43px;
+
+.MoneyAfricaStandAloneBreadCrum {
+  padding-left: 49px;
+  padding-right: 49px;
+  padding-top: 43px;
 }
-.PaddingMoneyAfricaStandAloneLogo{
+
+.PaddingMoneyAfricaStandAloneLogo {
   padding-right: 44px;
 }
-.MoneyAfricaExploreBTNStyles{
-     margin-bottom: 10px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    background-color: white;
-    border: none;
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-    font-weight: 700;
-    font-size: 16px;
-    color: #C03E21;
-    font-style: normal;
+
+.MoneyAfricaExploreBTNStyles {
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  color: #C03E21;
+  font-style: normal;
 }
-.MoneyAfricaExploreBTNStyles > img{
+
+.MoneyAfricaExploreBTNStyles>img {
   padding-left: 10px;
 }
-.SearchInputTextField{
+
+.SearchInputTextField {
   border-top: none;
-outline: none;
+  outline: none;
   border-right: none;
   border-left: none;
   margin-right: 33px;
   border-bottom: 1px solid #E5E5E5;
+}
+
+.PositionInputSeatchBTNandTextInputStyles {
+  position: relative;
+}
+
+.PositionSeacrhImage {
+  position: absolute;
+  top: -10px;
+  right: 187px;
+}
+
+.SearchInputTextField::placeholder {
+  position: relative;
+  top: -4px;
+  left: 23px;
+}
+
+.LoginBTNForStandAlone {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: white;
+  border: none;
+  cursor: pointer;
+  margin-right: 18px;
+}
+
+.GetStartedBTNStyles {
+  padding-top: 9px;
+  padding-left: 18px;
+  padding-bottom: 9px;
+  padding-right: 18px;
+  display: flex;
+  align-items: center;
+  background-color: #C03E21;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.GetStartedBTNStyles > img {
+  padding-left: 10px;
 }

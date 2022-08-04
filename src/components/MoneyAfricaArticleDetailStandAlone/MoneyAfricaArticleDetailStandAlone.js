@@ -3,6 +3,7 @@
 import React from "react";
 import RedArrowDownImage from "../../images/RedArrowDownImage.png";
 import InputSearchIcon from "../../images/InputSearchIcon.png";
+import WhiteArrowRight from "../../images/WhiteArrowRight.png";
 import MoneyAfricaArticleDetailStandAloneLogo from "../../images/MoneyAfricaArticleDetailStandAloneLogo.png";
 const MoneyAfricaArticleDetailStandAlone = () => {
   return (
@@ -25,7 +26,7 @@ const MoneyAfricaArticleDetailStandAlone = () => {
           </div>
           <div>
             <div className="TheInputFiedNavSection">
-              <div className="df">
+              <div className="df align-items-centr">
                 <div>
                   <div className="PositionInputSeatchBTNandTextInputStyles">
                     <input
@@ -38,8 +39,15 @@ const MoneyAfricaArticleDetailStandAlone = () => {
                     </div>
                   </div>
                 </div>
-                <div>2</div>
-                <div>3</div>
+                <div>
+                  <button className="LoginBTNForStandAlone">Login</button>
+                </div>
+                <div>
+                  <button className="GetStartedBTNStyles">
+                    Get started
+                    <img src={WhiteArrowRight} />
+                  </button>
+                </div>
               </div>
             </div>
           </div>
