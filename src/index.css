@@ -2914,11 +2914,58 @@ input.StyleResetPasswordInput {
   border-radius: 8px;
   cursor: pointer;
 }
-
+.TBCTextFont{
+  text-align: center;
+  font-weight: 500;
+  font-size: 36px;
+  color: #111111;
+  padding-top: 15px;
+}
+.MoneyAfricaBTN{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  background-color: #F9D68A;
+  border-radius: 8px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.PrivacyBTN{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  background-color: #F5C3C8;
+  border-radius: 8px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.MiningBTN{
+    padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  background-color: #ABEAD3;
+  border-radius: 8px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.MoneyAfricaStandAloneThreeBTNAndText{
+  padding-left: 10px;
+  padding-right: 10px;
+}
 .GetStartedBTNStyles>img {
   padding-left: 10px;
 }
-
+.MoneyAfricaTextWithBTNAndACenterDIV{
+  margin: auto;
+  width: 40%;
+  padding-top: 55px;
+}
 .MoneyAfricaMainInnerCrumb {
   padding-top: 46px;
   padding-left: 40px;

@@ -92,6 +92,25 @@ const MoneyAfricaArticleDetailStandAlone = () => {
           </div>
         </div>
       </div>
+      <div className="MoneyAfricaTextWithBTNAndACenterDIV">
+        <div className="MoneyAfricaStandAloneThreeBTNAndText">
+          <div className="df justify-content-centr">
+            <div>
+              <button className="MoneyAfricaBTN">MoneyAfrica</button>
+            </div>
+            <div>
+              <button className="PrivacyBTN">Privacy</button>
+            </div>
+            <div>
+              <button className="MiningBTN">Mining</button>
+            </div>
+          </div>
+        </div>
+        <h3 className="TBCTextFont">
+          The Best Crypto Wallets for Binance
+          <br /> Smart Chain (BSC)
+        </h3>
+      </div>
     </React.Fragment>
   );
 };
