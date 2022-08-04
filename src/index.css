@@ -2955,8 +2955,8 @@ input.StyleResetPasswordInput {
   cursor: pointer;
 }
 .MoneyAfricaStandAloneThreeBTNAndText{
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 31px;
+  /* padding-right: 10px; */
 }
 .GetStartedBTNStyles>img {
   padding-left: 10px;
@@ -2965,6 +2965,19 @@ input.StyleResetPasswordInput {
   margin: auto;
   width: 40%;
   padding-top: 55px;
+}
+.HorizontalRulesStyles {
+    margin-top: 21px;
+    margin-right: 174px;
+    margin-left: 173px;
+    border: 1px solid #E5E5E5;
+}
+.UpdatedTextStyles{
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: #7C7C7C;
+  padding-top: 10px;
 }
 .MoneyAfricaMainInnerCrumb {
   padding-top: 46px;
