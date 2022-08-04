@@ -2914,14 +2914,16 @@ input.StyleResetPasswordInput {
   border-radius: 8px;
   cursor: pointer;
 }
-.TBCTextFont{
+
+.TBCTextFont {
   text-align: center;
   font-weight: 500;
   font-size: 36px;
   color: #111111;
   padding-top: 15px;
 }
-.MoneyAfricaBTN{
+
+.MoneyAfricaBTN {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
@@ -2932,7 +2934,8 @@ input.StyleResetPasswordInput {
   margin-right: 10px;
   cursor: pointer;
 }
-.PrivacyBTN{
+
+.PrivacyBTN {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
@@ -2943,8 +2946,9 @@ input.StyleResetPasswordInput {
   margin-right: 10px;
   cursor: pointer;
 }
-.MiningBTN{
-    padding-top: 10px;
+
+.MiningBTN {
+  padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
   padding-right: 10px;
@@ -2954,31 +2958,40 @@ input.StyleResetPasswordInput {
   margin-right: 10px;
   cursor: pointer;
 }
-.MoneyAfricaStandAloneThreeBTNAndText{
+
+.MoneyAfricaStandAloneThreeBTNAndText {
   padding-left: 31px;
   /* padding-right: 10px; */
+}
+
+.MarginForAllBTNs {
+    margin-top: 18px;
 }
 .GetStartedBTNStyles>img {
   padding-left: 10px;
 }
-.MoneyAfricaTextWithBTNAndACenterDIV{
+
+.MoneyAfricaTextWithBTNAndACenterDIV {
   margin: auto;
   width: 40%;
   padding-top: 55px;
 }
+
 .HorizontalRulesStyles {
-    margin-top: 21px;
-    margin-right: 174px;
-    margin-left: 173px;
-    border: 1px solid #E5E5E5;
+  margin-top: 21px;
+  margin-right: 174px;
+  margin-left: 173px;
+  border: 1px solid #E5E5E5;
 }
-.UpdatedTextStyles{
+
+.UpdatedTextStyles {
   text-align: center;
   font-weight: 400;
   font-size: 16px;
   color: #7C7C7C;
   padding-top: 10px;
 }
+
 .MoneyAfricaMainInnerCrumb {
   padding-top: 46px;
   padding-left: 40px;

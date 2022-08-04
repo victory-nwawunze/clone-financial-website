@@ -7,6 +7,7 @@ import WhiteArrowRight from "../../images/WhiteArrowRight.png";
 import MoneyAfricaHomeIcon from "../../images/MoneyAfricaHomeIcon.png";
 import ChevLeftIcon from "../../images/ChevLeftIcon.png";
 import DottedIcon from "../../images/DottedIcon.png";
+import ThreeTierPyramid from "../../images/ThreeTierPyramid 1.png";
 import MoneyAfricaArticleDetailStandAloneLogo from "../../images/MoneyAfricaArticleDetailStandAloneLogo.png";
 const MoneyAfricaArticleDetailStandAlone = () => {
   return (
@@ -112,6 +113,13 @@ const MoneyAfricaArticleDetailStandAlone = () => {
         </h3>
         <p className="UpdatedTextStyles">Updated Aug 9, 2021</p>
         <hr className="HorizontalRulesStyles" />
+        <div className="MarginForAllBTNs">
+          <div className="df  justify-content-centr">
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+          </div>
+        </div>
       </div>
     </React.Fragment>
   );
