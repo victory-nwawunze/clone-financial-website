@@ -110,6 +110,8 @@ const MoneyAfricaArticleDetailStandAlone = () => {
           The Best Crypto Wallets for Binance
           <br /> Smart Chain (BSC)
         </h3>
+        <p className="UpdatedTextStyles">Updated Aug 9, 2021</p>
+        <hr className="HorizontalRulesStyles" />
       </div>
     </React.Fragment>
   );
