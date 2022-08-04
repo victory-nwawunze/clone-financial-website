@@ -2832,3 +2832,38 @@ input.StyleResetPasswordInput {
 .SendResenLinkBTNStyles > img{
   padding-left: 10px;
 }
+.MoneyAfricaStandAloneBreadCrum{
+ padding-left: 49px;
+    padding-right: 49px;
+    padding-top: 43px;
+}
+.PaddingMoneyAfricaStandAloneLogo{
+  padding-right: 44px;
+}
+.MoneyAfricaExploreBTNStyles{
+     margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 16px;
+    color: #C03E21;
+    font-style: normal;
+}
+.MoneyAfricaExploreBTNStyles > img{
+  padding-left: 10px;
+}
+.SearchInputTextField{
+  border-top: none;
+outline: none;
+  border-right: none;
+  border-left: none;
+  margin-right: 33px;
+  border-bottom: 1px solid #E5E5E5;
+}
