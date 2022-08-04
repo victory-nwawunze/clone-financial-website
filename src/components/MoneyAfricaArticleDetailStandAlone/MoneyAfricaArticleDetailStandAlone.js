@@ -4,6 +4,9 @@ import React from "react";
 import RedArrowDownImage from "../../images/RedArrowDownImage.png";
 import InputSearchIcon from "../../images/InputSearchIcon.png";
 import WhiteArrowRight from "../../images/WhiteArrowRight.png";
+import MoneyAfricaHomeIcon from "../../images/MoneyAfricaHomeIcon.png";
+import ChevLeftIcon from "../../images/ChevLeftIcon.png";
+import DottedIcon from "../../images/DottedIcon.png";
 import MoneyAfricaArticleDetailStandAloneLogo from "../../images/MoneyAfricaArticleDetailStandAloneLogo.png";
 const MoneyAfricaArticleDetailStandAlone = () => {
   return (
@@ -50,6 +53,42 @@ const MoneyAfricaArticleDetailStandAlone = () => {
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+      <div className="MoneyAfricaMainInnerCrumb">
+        <div className="df justify-content-betw">
+          <div>
+            <div className="PaddingForMoneyAfricaInnerCrub">
+              <div className="df">
+                <div>
+                  <div className="PaddingMoneyAfricaHomeIcon">
+                    <img src={MoneyAfricaHomeIcon} />
+                  </div>
+                </div>
+                <div>
+                  <div className="PaddingMoneyAfricaChevLeftIcon">
+                    <img src={ChevLeftIcon} />
+                  </div>
+                </div>
+                <div>
+                  <button className="ExploreBTNStyles">Explore</button>
+                </div>
+                <div>
+                  <div className="PaddingMoneyAfricaChevLeftIconTwo">
+                    <img src={ChevLeftIcon} />
+                  </div>
+                </div>
+                <div>
+                  <button className="TheBestCryptoBTNTextStyles">
+                    The Best Crypto Wallets for Binance Smart Chain (BSC)
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <img src={DottedIcon} />
           </div>
         </div>
       </div>

@@ -2914,6 +2914,51 @@ input.StyleResetPasswordInput {
   border-radius: 8px;
   cursor: pointer;
 }
-.GetStartedBTNStyles > img {
+
+.GetStartedBTNStyles>img {
   padding-left: 10px;
+}
+
+.MoneyAfricaMainInnerCrumb {
+  padding-top: 46px;
+  padding-left: 40px;
+  padding-right: 46px;
+  padding-bottom: 10px;
+}
+
+.PaddingMoneyAfricaHomeIcon {
+  padding-right: 2px;
+}
+
+.PaddingMoneyAfricaChevLeftIcon {
+  padding-right: 4px;
+  padding-top: 2px;
+}
+
+.PaddingMoneyAfricaChevLeftIconTwo {
+  padding-top: 3px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
+button.TheBestCryptoBTNTextStyles {
+  padding-top: 6px;
+  padding-bottom: 10px;
+
+  border: none;
+  color: #7C7C7C;
+  background-color: white;
+}
+
+button.ExploreBTNStyles {
+  padding-top: 4px;
+  padding-bottom: 9px;
+  padding-left: 9px;
+  padding-right: 3px;
+  border: none;
+  background-color: white;
+  color: #7C7C7C;
+  font-weight: 400;
+  font-size: 14px;
+  cursor: pointer;
 }
